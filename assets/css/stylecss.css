@@ -1,0 +1,116 @@
+/* language: CSS */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+ font-size:  calc(60% + 0.8vmin);
+
+}
+header {
+
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+nav a {
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+
+.headimg {
+  margin: auto;
+  max-height: 700px;
+  max-width: 100%;
+  min-width: 100%
+}
+.main {
+  
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 75%;
+  margin: auto;
+}
+/* Desktop menu */
+.desktop-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.desktop-menu li {
+  list-style: none;
+}
+
+.desktop-menu a {
+  text-decoration: none;
+  color: #000000;
+  padding: 10px;
+}
+
+/* Mobile menu */
+.mobile-menu {
+  display: none;
+  text-align: left; /* added property */
+  position: fixed; /* change to "fixed" */
+  top: 0; /* add "top: 0" */
+  left: 0;
+  z-index: 999;
+  width: 100%; /* add "width: 100%" */
+  background-color: #ffffff;
+}
+
+#toggle-menu {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .desktop-menu {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: block;
+  }
+
+  #toggle-menu:checked ~ ul {
+    display: block;
+  }
+
+  #toggle-menu:checked + label {
+    background-color: #ccc;
+  }
+
+  .mobile-menu ul {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    text-align: left; /* added property */
+  }
+
+  .mobile-menu li {
+    list-style: none;
+    padding: 10px;
+  }
+
+  .mobile-menu a {
+    text-decoration: none;
+    color: #000000;
+    height: 50px; /* increase the height value to increase the height of the mobile menu bars */
+    line-height: 50px; /* match the line-height with the height value to vertically center the text */
+    padding: 0 20px; /* adjust the padding value as needed */
+  }
+}
