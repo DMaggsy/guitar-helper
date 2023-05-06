@@ -126,18 +126,28 @@ footer a {
 }
 .footer-container {
   display: flex;
-  -ms-flex-align: center;
   justify-content: space-between;
   background-color:midnightblue
   
 }
+/* default style for all screen sizes */
 .footertext {
-  font-size: 14px;
-  text-decoration: none;
-  text-transform: capitalize;
-  color: #ffffff;
+  display: flex; /* set the container to use flexbox layout */
+  flex-direction: row; /* set the direction of the flex items to be horizontal */
+  justify-content: center; /* center the items horizontally */
+  gap: 10px;
   list-style-type: none;
 }
+
+/* apply vertical layout for screens smaller than 768px */
+@media (max-width: 767px) {
+  .footertext {
+    flex-direction: column; /* set the direction of the flex items to be vertical */
+    align-items: center; /* center the items vertically */
+    gap: 10px;
+  }
+}
+
 .contactus {
   background-color: midnightblue; 
 
