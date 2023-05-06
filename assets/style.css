@@ -126,6 +126,7 @@ footer a {
 }
 .footer-container {
   display: flex;
+  -ms-flex-align: center;
   justify-content: space-between;
   background-color:midnightblue
   
