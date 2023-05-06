@@ -26,6 +26,7 @@ color: rgb(255, 255, 255);
 text-decoration: none;
 }
 
+
 .headimg {
   margin: auto;
   max-height: 700px;
@@ -37,6 +38,11 @@ text-decoration: none;
 }
 h1 {
   text-align: center;
+}
+h5 {
+  color: #ffffff;
+  font-size: 16px;
+
 }
 p {
   text-align: center;
@@ -114,11 +120,22 @@ p {
     padding: 0 20px; /* adjust the padding value as needed */
   }
 }
+
+footer a {
+  color: #ffffff;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+.footertext {
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #ffffff;
+}
 .footer {
   width: 100%;
   position: relative;
-  height: auto;
-  background-color: #070617;
-  color:#ffffff
-  
+  background-color: midnightblue; 
 }
