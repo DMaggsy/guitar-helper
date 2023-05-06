@@ -127,6 +127,7 @@ footer a {
 .footer-container {
   display: flex;
   justify-content: space-between;
+  background-color:midnightblue
   
 }
 .footertext {
@@ -153,7 +154,7 @@ button {
   cursor: pointer;
 }
 
-.footer {
+.footersection {
   width: 100%;
   position: relative;
   background-color: midnightblue; 
