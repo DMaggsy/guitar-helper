@@ -11,7 +11,7 @@
 <body>
     <!--Header Image-->
     <header>
-    <img class="headimg" srcset="assets\images\banner image.jpeg" src="assets\images\banner image.jpeg" alt="guitar header image">
+    <img class="headimg" srcset="assets\images\confused.jpg" src="assets\images\confused.jpg" alt="man confused with guitar image">
     <!--Navigation menu/bar-->
     <nav>
         <ul class="desktop-menu">
@@ -38,22 +38,20 @@
     <section>
         <br>
     <!--Webpage H1-->    
-   <div class="contact-form-container" class="contact-form">
-    <h1>Contact us</h1>
-     <br>
-     <form action="your_action_page.php" method="POST">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-      
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-      
-        <label for="comments">Comments:</label>
-        <textarea id="comments" name="comments" required></textarea>
-      
-        <input type="submit" value="Submit">
+    <!--Tester Form-->
+    <div class="wrapper">
+      <form class="form">
+        <div class="pageTitle title">Still a bit confused?</div>
+        <div class="secondaryTitle title">Pop us a message & we'll try help.</div>
+        <input type="text" class="name formEntry" placeholder="Name" />
+        <input type="text" class="email formEntry" placeholder="Email"/>
+        <textarea class="message formEntry" placeholder="Message"></textarea>
+        <input type="checkbox" class="termsConditions" value="Term">
+        <label style="color: grey" for="terms"> I Accept the <span style="color: #0e3721">Terms of Use</span> & <span style="color: #0e3721">Privacy Policy</span>.</label><br>
+        <button class="submit formEntry" onclick="thanks()">Submit</button>
       </form>
     </div>
+    <script src="app.js"></script>
       
     
 
