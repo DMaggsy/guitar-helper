@@ -107,11 +107,13 @@ p {
 
   .mobile-menu {
     display: block;
+    font-size: 42px;
   }
-
+  
   #toggle-menu:checked ~ ul {
     display: block;
   }
+
 
   #toggle-menu:checked + label {
     background-color: #ccc;
