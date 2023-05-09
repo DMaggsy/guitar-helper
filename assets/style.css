@@ -184,7 +184,7 @@ button {
 /* Css for grid gallery */
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 2fr);
   grid-gap: 20px;
 }
 
