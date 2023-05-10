@@ -95,7 +95,7 @@ p {
   left: 0;
   z-index: 999;
   width: 100%; /* add "width: 100%" */
-  background-color: #ffffff;
+  background-color: #310342;
 }
 
 #toggle-menu {
@@ -110,6 +110,7 @@ p {
   .mobile-menu {
     display: block;
     font-size: 42px;
+    color: #fff;
   }
   
   #toggle-menu:checked ~ ul {
@@ -118,7 +119,7 @@ p {
 
 
   #toggle-menu:checked + label {
-    background-color: #ccc;
+    background-color: #310342;
   }
 
   .mobile-menu ul {
@@ -135,7 +136,7 @@ p {
 
   .mobile-menu a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
     height: 50px; /* increase the height value to increase the height of the mobile menu bars */
     line-height: 50px; /* match the line-height with the height value to vertically center the text */
     padding: 0 20px; /* adjust the padding value as needed */
@@ -425,7 +426,7 @@ footer a {
   display: flex;
   justify-content: space-between;
   padding: 0 20px;
-  background-color:midnightblue
+  background-color:#310342
   
 }
 /* default style for all screen sizes */
@@ -441,7 +442,7 @@ footer a {
 
 
 .contactus {
-  background-color: midnightblue;
+  background-color: #310342;
   display: flex; /* set the container to use flexbox layout */
   flex-direction: column; /* set the direction of the flex items to be horizontal */
   justify-content: center; /* center the items horizontally */
