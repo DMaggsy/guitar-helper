@@ -148,6 +148,7 @@ footer a {
 .footer-container {
   display: flex;
   justify-content: space-between;
+  padding: 0 20px;
   background-color:midnightblue
   
 }
@@ -156,21 +157,21 @@ footer a {
   display: flex; /* set the container to use flexbox layout */
   flex-direction: row; /* set the direction of the flex items to be horizontal */
   justify-content: center; /* center the items horizontally */
+  text-align: center;
   gap: 10px;
   list-style-type: none;
 }
 
-/* apply vertical layout for screens smaller than 768px */
-@media (max-width: 767px) {
-  .footertext {
-    flex-direction: column; /* set the direction of the flex items to be vertical */
-    align-items: center; /* center the items vertically */
-    gap: 10px;
-  }
-}
+
 
 .contactus {
-  background-color: midnightblue; 
+  background-color: midnightblue;
+  display: flex; /* set the container to use flexbox layout */
+  flex-direction: column; /* set the direction of the flex items to be horizontal */
+  justify-content: center; /* center the items horizontally */
+  text-align: center;
+  gap: 10px;
+  list-style-type: none; 
 
 }
 button {
@@ -185,6 +186,16 @@ button {
   margin: 4px 2px;
   cursor: pointer;
 }
+/* apply vertical layout for screens smaller than 768px */
+@media (max-width: 767px) {
+  .footertext {
+    flex-direction: column; /* set the direction of the flex items to be vertical */
+    align-items: center; /* center the items vertically */
+    gap: 10px;
+  }
+}
+/*footer ends here*/
+
 /* Css for grid gallery */
 .grid-container {
   display: grid;
