@@ -271,6 +271,7 @@ img {
 
 .tip {
   display: flex;
+  min-width: 100%;
   align-items: center;
   margin-bottom: 20px;
   background-color: #919881;
