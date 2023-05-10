@@ -31,7 +31,7 @@ text-decoration: none;
   margin: auto;
   display: block;
   width: 100%;
-  height: auto;
+  max-height:500px;
   object-fit: cover;
 }
 .main {
@@ -346,19 +346,7 @@ img {
 #title-Tag-Line {
   font-size: 20px;
 }
-/* .card-item__bg{
-  width: 150px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  display: block;
-  position: relative;
-  margin: 30px auto;
-  transform: translate(0px, 50px);
-  z-index: 5;
-} */
-
+}
 /* form animation starts */
 .form {
   background: #fff;
@@ -374,7 +362,7 @@ img {
   right: 0;
   position: absolute;
   border-top: 5px solid #0e3721;
-/*   z-index: 1; */
+  z-index: 2;
   animation: bounce 1.5s infinite;
 }
 ::-webkit-input-placeholder {
@@ -468,3 +456,4 @@ img {
     transform: translate(0, 8px);
   }
 } 
+
