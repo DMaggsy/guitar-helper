@@ -70,9 +70,17 @@ p {
 
 /* Desktop menu */
 .desktop-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #310342; /* Change to your desired background color */
+  z-index: 9999; /* Make sure it has a higher z-index than other elements on the page */
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1); /* Add a box-shadow to give it some depth */
 }
 
 .desktop-menu li {
@@ -81,7 +89,7 @@ p {
 
 .desktop-menu a {
   text-decoration: none;
-  color: #000000;
+  color: #ffffff;
   padding: 10px;
   font-size: 20px;
 }
