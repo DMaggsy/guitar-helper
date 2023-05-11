@@ -235,6 +235,9 @@ img {
   display: grid;
   align-items: center; 
 }
+.guitar-grid img {
+  width: 300px;
+}
 .guitar-grid {
   display: grid;
   grid-template-columns: repeat(3, 2fr);
