@@ -1,39 +1,46 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Guitar Helper Logo](documentation\newlogo.png)
 
-Welcome,
+# *Your Guitar Helper*
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Your guitar helper website is designed to help people initially start learning guitar, buy their first guitar that's right for them & where's best to buy said guitar. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+The site can be accessed here: [link]>>>>>>>>>>>>>
 
-## Codeanywhere Reminders
+![Responsive Mockup](responsive_mockup.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
+## User Stories 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### First Time Visitor Goals: 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Returning Visitor Goals:
 
-`http_server`
+### Frequent Visitor Goals:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Features 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### List all pages here
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Technologies Used
 
-To log into the Heroku toolbelt CLI:
+## Design
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Testing
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Bugs
 
----
+## Validator Testing
 
-Happy coding!
+## Deployment
+
+## Local Deployment
+
+## Credits
+
+## Wireframes 
+
+## Mobile Devices 
+
+## Tablets 
+
+## Desktop
