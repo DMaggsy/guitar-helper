@@ -56,7 +56,9 @@ p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   width: 75%;
   margin: auto;
+  font-size: 2.2vw; /* adjust the value to your liking */
 }
+
 .logo {
   width: 200px; /* set the maximum width */
   height: auto; /* set height to auto to maintain aspect ratio */
