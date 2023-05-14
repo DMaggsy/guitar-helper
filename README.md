@@ -21,7 +21,18 @@ The site can be accessed here: [link]>>>>>>>>>>>>>
 
 ### List all pages here
 
-## Technologies Used
+
+### Languages Used
+
+HTML was used as the foundation of the site.
+CSS - was used to add the styles and layout of the site.
+CSS Flexbox - was used to arrange items simmetrically on the pages.
+CSS Grid - was used to make "gallery" and "contact" pages responsive.
+CSS roots was used to declaring global CSS variables and apply them throughout the project.
+Balsamiq was used to make wireframes for the website.
+VSCode was used as the main tool to write and edit code.
+Git was used for the version control of the website.
+GitHub was used to host the code of the website.
 
 ## Design
 
