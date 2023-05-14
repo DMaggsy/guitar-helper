@@ -114,13 +114,17 @@ GitHub was used to host the code of the website.
 . Images
 - [1st Image](https://www.pexels.com/photo/person-using-black-fender-stratocaster-1656066/)
 
-- [2nd image](https://www.pexels.com/photo/photo-of-man-carrying-acoustic-guitar-2462995/)
+- [2nd Image](https://www.pexels.com/photo/photo-of-man-carrying-acoustic-guitar-2462995/)
 
-- [3rd image](https://unsplash.com/photos/pMCP8c8_xi4)
+- [3rd Image](https://unsplash.com/photos/pMCP8c8_xi4)
 
-- [4th image](https://pixabay.com/photos/object-subject-coloured-background-5222329/)
+- [4th Image](https://pixabay.com/photos/object-subject-coloured-background-5222329/)
 
-- [5th image](https://www.youtube.com/@MartyMusic)
+- [5th Image](https://www.youtube.com/@MartyMusic)
+
+- [6th Image](https://unsplash.com/photos/KsNhJk-6yk0)#
+
+- [7th Image](https://unsplash.com/photos/a9LrwVtyiZw)
 
 ## Testing
 
