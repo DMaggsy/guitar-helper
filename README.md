@@ -102,6 +102,26 @@ GitHub was used to host the code of the website.
 
 ## Design
 
+### Colour Scheme
+
+- The main colours used are white, Purple and Black.
+- Purple #310342
+- Black rgba(0, 0, 0, 0.7)
+- White #ffffff
+
+### Credits
+
+. Images
+- [1st Image](https://www.pexels.com/photo/person-using-black-fender-stratocaster-1656066/)
+
+- [2nd image](https://www.pexels.com/photo/photo-of-man-carrying-acoustic-guitar-2462995/)
+
+- [3rd image](https://unsplash.com/photos/pMCP8c8_xi4)
+
+- [4th image](https://pixabay.com/photos/object-subject-coloured-background-5222329/)
+
+- [5th image](https://www.youtube.com/@MartyMusic)
+
 ## Testing
 
 ### Bugs
@@ -135,3 +155,6 @@ The logo was created by myself in [here][https://www.canva.com/]
 [https://codepen.io/shantedenise/pen/GYyxWV]: https://codepen.io/shantedenise/pen/GYyxWV
 [https://www.youtube.com/@KevinPowell]: https://www.youtube.com/@KevinPowell
 [https://www.canva.com/]: https://www.canva.com/ "Canva"
+[https://images.pexels.com/photos/1656066/pexels-photo-1656066.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800]: https://images.pexels.com/photos/1656066/pexels-photo-1656066.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800
+[https://images.pexels.com/photos/2462995/pexels-photo-2462995.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800]: https://images.pexels.com/photos/2462995/pexels-photo-2462995.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800
+[def]: https://unsplash.com/photos/pMCP8c8_xi4
