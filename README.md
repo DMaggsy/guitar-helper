@@ -13,13 +13,79 @@ The site can be accessed here: [link]>>>>>>>>>>>>>
 
 ### First Time Visitor Goals: 
 
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+
 ### Returning Visitor Goals:
+
+1. As a Returning Visitor, I want to find information about the organisation.
+2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+3. As a Returning Visitor, I want to find community links.
 
 ### Frequent Visitor Goals:
 
+1. As a Frequent User, I want to check to see if there are any newly added content.
+2. As a frequent visitor, I want to check to see if there are any newly added links to other sites.
+3. As a frequent visitor, I want to see if there's any additional information on guitar I can learn.
+
 ## Features 
 
+. Navigation
+. Nav Bar
+- Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, How to learn page, What to buy page, Where to buy page and Contact us page and is identical in each page to allow for easy navigation.
+
+. On Mobile version
+- On the mobile version of the site, the navigation bar is collapsed into a hamburger icon which when clicked, opens up the navigation bar vertically.
+
+. Homepage
+- The homepage allows you to navigate the entire site 
+- Gives users a brief description of the site and what it's about
+- Allows users to explore external links 
+- Allows users to explore the site and learn more about the guitar
+- Allows users to contact us via the footer
+
+. Hero Section
+- The hero section allows users to see the main purpose of the site and what it's about
+- Allows users to see the main navigation bar
+- Allows users to see the main logo
+
+. Tile Section 
+- This allows the user to navigate to internal and external links
+- Allows users to explore the site and learn more about the guitar
+- Allows users to see what kind of content the website consists of
+
+. Call to Action in the footer 
+- Allows users to contact us via the footer
+
+. How to learn page
+- The how to learn page allows users to see how to learn guitar
+- Gives top tips on achieving the best results
+
+. What to buy page
+- The what to buy page allows users to see what to buy when starting out
+- Gives external links to view the guitar under a retailers site
+
+. Where to buy page
+- The where to buy page allows users to see where to buy the guitar
+- Gives external links to view the guitar under a retailers site
+
+. Contact us page
+- The contact us page allows users to contact us via a form
+- Gives users the option to contact us via social media
+
+.The Footer 
+- The footer section includes links to the relevant social media sites for the organisation.
+- The footer is valuable to the user as it encourages them to keep connected via social media.
+- The footer also includes a link to the contact us page.
+
 ### List all pages here
+
+Home Page
+How to learn page
+What to buy page
+Where to buy page
+Contact us page
 
 
 ### Languages Used
@@ -57,8 +123,6 @@ The Font Awesome icons were taken from [here][https://fontawesome.com/]
 The Desktop and mobile menus came from a joint inspiration of [here](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [here][https://www.youtube.com/@KevinPowell]
 
 The logo was created by myself in [here][https://www.canva.com/]
-
-
 
 ## Wireframes 
 
