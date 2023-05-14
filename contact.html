@@ -42,15 +42,15 @@
       <!--Tester Form-->
       <div class="form-container">
         <div class="wrapper">
-          <form class="form">
+          <form aria-label="This is a contact form if you have any questions about guitar" class="form">
             <div class="pageTitle title">Still a bit confused?</div>
             <div class="secondaryTitle title">Pop us a message &amp; we'll try help.</div>
-            <input type="text" class="name formEntry" placeholder="Name" />
-            <input type="text" class="email formEntry" placeholder="Email"/>
-            <textarea class="message formEntry" placeholder="Message"></textarea>
-            <input type="checkbox" class="termsConditions" value="Term" id="terms">
+            <input aria-label="type you name here" type="text" class="name formEntry" placeholder="Name" />
+            <input aria-label="type your email here" type="text" class="email formEntry" placeholder="Email"/>
+            <textarea aria-label="ask any specific questions here" class="message formEntry" placeholder="Message"></textarea>
+            <input aria-label="click this checkbox if you agree to terms and conditions" type="checkbox" class="termsConditions" value="Term" id="terms">
             <label style="color: grey" for="terms"> I Accept the <span style="color: #0e3721">Terms of Use</span> &amp; <span style="color: #0e3721">Privacy Policy</span>.</label><br>
-            <button class="submit formEntry" onclick="thanks()">Submit</button>
+            <button aria-label="Click here to submit form" class="submit formEntry" onclick="thanks()">Submit</button>
           </form>
         </div>
       </div>
