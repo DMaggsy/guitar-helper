@@ -111,7 +111,7 @@ GitHub was used to host the code of the website.
 
 ### Credits
 
-. Images
+. Homepage Images
 - [1st Image](https://www.pexels.com/photo/person-using-black-fender-stratocaster-1656066/)
 
 - [2nd Image](https://www.pexels.com/photo/photo-of-man-carrying-acoustic-guitar-2462995/)
