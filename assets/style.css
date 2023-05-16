@@ -546,6 +546,7 @@ button {
   .footertext {
     flex-direction: column; /* set the direction of the flex items to be vertical */
     align-items: center; /* center the items vertically */
+    justify-content: space-evenly
     gap: 10px;
   }
 }
