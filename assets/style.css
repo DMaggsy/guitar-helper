@@ -549,4 +549,13 @@ button {
     gap: 10px;
   }
 }
+@media (max-width: 480px) {
+  .footer-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+  }
+}
+
 /*footer ends here*/
