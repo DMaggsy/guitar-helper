@@ -376,11 +376,7 @@ img {
   }
 /* End of guitar tip css */
 
-.footersection {
-  width: 100%;
-  position: relative;
-  background-color: midnightblue; 
-}
+
 /*Tester Form CSS*/
 #title-Tag-Line {
   font-size: 20px;
@@ -516,6 +512,7 @@ footer a {
   flex-direction: row; /* set the direction of the flex items to be horizontal */
   justify-content: center; /* center the items horizontally */
   text-align: center;
+  justify-content: space-evenly;
   gap: 10px;
   list-style-type: none;
 }
