@@ -465,23 +465,10 @@ img {
   background-color: #ebebeb;
   color: white;
 }
-.name:hover {
-  border-bottom: 5px solid #0e3721;
-  height: 30px;
-  width: 380px;
-  transition: ease 0.5s;
-}
 
 .email {
   background-color: #ebebeb;
   height: 2em;
-}
-
-.email:hover {
-  border-bottom: 5px solid #0e3721;
-  height: 30px;
-  width: 380px;
-  transition: ease 0.5s;
 }
 
 .message {
@@ -489,21 +476,13 @@ img {
   overflow: hidden;
   height: 10rem;
 }
-
-.message:hover {
-  border-bottom: 5px solid #0e3721;
-  height: 12em;
-  width: 380px;
-  transition: ease 0.5s;
-}
-
 .formEntry {
   display: block;
   margin: 30px auto;
   min-width: 300px;
   padding: 10px;
   border-radius: 2px;
-  border: none;
+  border: 1px solid #0e3721;
   transition: all 0.5s ease 0s;
 }
 
