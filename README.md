@@ -122,7 +122,7 @@ GitHub was used to host the code of the website.
 
 - [5th Image](https://www.youtube.com/@MartyMusic)
 
-- [6th Image](https://unsplash.com/photos/KsNhJk-6yk0)#
+- [6th Image](https://unsplash.com/photos/KsNhJk-6yk0)
 
 - [7th Image](https://unsplash.com/photos/a9LrwVtyiZw)
 
