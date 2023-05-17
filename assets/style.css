@@ -63,7 +63,30 @@ h5 {
   font-size: 16px;
   text-align: center;
 }
+/* Default font size for headers */
+.headings {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
 
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .headings {
+    font-size: 20px;
+  }
+}
+
+/* Media query for even smaller screens */
+@media (max-width: 480px) {
+  .headings {
+    font-size: 16px;
+  }
+}
 p {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -314,16 +337,6 @@ img {
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   z-index: 2;
-}
-
-.guitar-header {
-  text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 30px;
-  font-style: italic;
-  text-decoration: underline;
-  margin-bottom: 30px;
-  margin-top: 30px;
 }
 
 @media screen and (min-width: 769px) {
