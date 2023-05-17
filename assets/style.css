@@ -52,6 +52,7 @@ h3 {
 h5 {
   color: #ffffff;
   font-size: 16px;
+  text-align: center;
 }
 
 p {
@@ -510,13 +511,23 @@ footer a {
 }
 .footer-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 40px;
   background-color:#310342
   
+}
+.footer-section {
+  flex: 1 0 auto;
+  text-align: center;
+}
+.footer {
+  flex: 1 0 auto;
+  text-align: center;
 }
 /* default style for all screen sizes */
 .footertext {
@@ -539,6 +550,8 @@ footer a {
   text-align: center;
   gap: 10px;
   list-style-type: none; 
+  flex: 1 0 auto;
+  text-align: center;
 
 }
 button {
