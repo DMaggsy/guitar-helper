@@ -565,7 +565,6 @@ footer a {
   flex-direction: column; /* set the direction of the flex items to be horizontal */
   justify-content: center; /* center the items horizontally */
   text-align: center;
-  gap: 10px;
   list-style-type: none; 
   flex: 1 0 auto;
   text-align: center;
@@ -580,6 +579,7 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 14px;
+  margin-top: 5px;
   margin: 4px 2px;
   cursor: pointer;
 }
