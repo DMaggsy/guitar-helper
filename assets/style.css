@@ -90,7 +90,13 @@ p {
   border-right: 1px solid #ffffff; /* Add a border in between each menu item */
   border-left: 1px solid #ffffff; /* Add a border in between each menu item */
 }
+.desktop-menu li:first-child {
+  border-left-width: 2px; /* Set the left border of the first item to 2 pixels */
+}
 
+.desktop-menu li:last-child {
+  border-right-width: 2px; /* Set the right border of the last item to 2 pixels */
+}
 .desktop-menu a {
   text-decoration: none;
   color: #ffffff;
