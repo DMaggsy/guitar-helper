@@ -35,7 +35,7 @@ text-decoration: none;
   object-fit: cover;
 }
 .main {
-  
+  padding: 10px;
 }
 h1 {
   text-align: center;
