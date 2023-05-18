@@ -93,10 +93,24 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ![Intro Section Screenshot](documentation/introsection.png)
 
-. Tile Section 
-- This allows the user to navigate to internal and external links
-- Allows users to explore the site and learn more about the guitar
-- Allows users to see what kind of content the website consists of
+<hr>
+
+- 1st Homepage Tile Section 
+
+     - This allows the user to navigate to internal links
+     - Allows users to explore the site and learn more about the guitar
+     - Allows users to see what kind of content the website consists of
+
+     ![Homepage First Tile Section](documentation/firsttilesection.png)
+
+<hr>
+
+- 2nd Homepage Tile Section
+
+      - This allows the user to explore some external links
+      - These external links are aimed to provide additional support to the user in regard to learning guitar
+
+      
 
 . Call to Action in the footer 
 - Allows users to contact us via the footer
