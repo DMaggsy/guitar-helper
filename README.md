@@ -8,7 +8,7 @@ Your guitar helper website is designed to help people initially start learning g
 
 The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
-
+![Responsive Mockup](documentation/responsivemockup.png)
 
 <hr>
 
@@ -71,7 +71,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
         - Allows users to explore the site and learn more about the guitar.
         - Allows users to contact us via the footer.
     
-        ![Homepage](assets/images/homepage.png)
+ ![Homepage Screenshot](documentation/homepagescreenshot.png)
 
 
 . Hero Section
