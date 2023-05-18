@@ -90,15 +90,14 @@ Contact us page
 
 ### Languages Used
 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
-CSS - was used to add the styles and layout of the site.
-CSS Flexbox - was used to arrange items simmetrically on the pages.
-CSS Grid - was used to make "gallery" and "contact" pages responsive.
-CSS roots was used to declaring global CSS variables and apply them throughout the project.
-Balsamiq was used to make wireframes for the website.
-VSCode was used as the main tool to write and edit code.
-Git was used for the version control of the website.
-GitHub was used to host the code of the website.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) was used to arrange items simmetrically on the pages.
+- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used on the "Home", "What to buy", "Where to buy" pages in order to display multiple options.
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
 
 ## Design
 
