@@ -8,7 +8,7 @@ Your guitar helper website is designed to help people initially start learning g
 
 The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
-![Responsive Mockup](assets/images/responsivemockup.png)
+
 
 <hr>
 
