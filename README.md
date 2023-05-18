@@ -16,27 +16,39 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ### First Time Visitor Goals: 
 
-1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+- As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+- As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
 
 ### Returning Visitor Goals:
 
-1. As a Returning Visitor, I want to find information about the organisation.
-2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-3. As a Returning Visitor, I want to find community links.
+- As a Returning Visitor, I want to find information about the organisation.
+-  As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+-  As a Returning Visitor, I want to find community links.
 
 ### Frequent Visitor Goals:
 
-1. As a Frequent User, I want to check to see if there are any newly added content.
-2. As a frequent visitor, I want to check to see if there are any newly added links to other sites.
-3. As a frequent visitor, I want to see if there's any additional information on guitar I can learn.
+- As a Frequent User, I want to check to see if there are any newly added content.
+- As a frequent visitor, I want to check to see if there are any newly added links to other sites.
+- As a frequent visitor, I want to see if there's any additional information on guitar I can learn.
 
 ## Features 
 
-. Navigation
-. Nav Bar
-- Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, How to learn page, What to buy page, Where to buy page and Contact us page and is identical in each page to allow for easy navigation.
+- NavBar
+
+- Navigation
+
+ - Featured on all pages, the full responsive navigation bar includes links to: Home page, How to learn page, What to buy page, Where to buy page and Contact us page and is identical in each page to allow for easy navigation.
+
+    - HOME - This link allows users to return to the home page from any page on the site.
+    - HOW TO LEARN - This link allows users to navigate to the how to learn page.
+    - WHAT TO BUY - This link allows users to navigate to the what to buy page.
+    - WHERE TO BUY - This link allows users to navigate to the where to buy page.
+    - CONTACT US - This link allows users to navigate to the contact us page.
+
+ - The links have a hover effect to show the user that they can click on the link.
+ - The navigation bar is easy for users to understand and navigate.
+
 
 . On Mobile version
 - On the mobile version of the site, the navigation bar is collapsed into a hamburger icon which when clicked, opens up the navigation bar vertically.
