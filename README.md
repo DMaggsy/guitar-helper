@@ -63,14 +63,16 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 <hr>
 
-- On the mobile version of the site, the navigation bar is collapsed into a hamburger icon which when clicked, opens up the navigation bar vertically.
+- Homepage
+    
+        - The homepage allows users to navigate the entire site.
+        - Gives users a brief description of the site and what it's about.
+        - Allows users to explore external links.
+        - Allows users to explore the site and learn more about the guitar.
+        - Allows users to contact us via the footer.
+    
+        ![Homepage](assets/images/homepage.png)
 
-. Homepage
-- The homepage allows you to navigate the entire site 
-- Gives users a brief description of the site and what it's about
-- Allows users to explore external links 
-- Allows users to explore the site and learn more about the guitar
-- Allows users to contact us via the footer
 
 . Hero Section
 - The hero section allows users to see the main purpose of the site and what it's about
