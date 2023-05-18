@@ -203,7 +203,14 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ### Typography
 
-- The website logo font 
+- The font used within the guitar helper logo is "Tropika". This font was choosen because it adds a slight pop to the logo as opposed to mode rigid/straight line fonts. 
+
+![Font Used In Logo](documentation/guitarhelperlogofont.png)
+
+
+
+<hr>
+
 
 ### Credits
 
