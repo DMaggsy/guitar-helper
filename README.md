@@ -107,10 +107,10 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - 2nd Homepage Tile Section
 
-      - This allows the user to explore some external links
-      - These external links are aimed to provide additional support to the user in regard to learning guitar
+     - This allows the user to explore some external links
+     - These external links are aimed to provide additional support to the user in regard to learning guitar
 
-![Homepage Second Tile Section](documentation/secondtilesection.png)
+     ![Homepage Second Tile Section](documentation/secondtilesection.png)
 
 <hr>
 
