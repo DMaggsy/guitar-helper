@@ -120,7 +120,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - The footer is valuable to the user as it encourages them to keep connected via social media.
      - The footer also includes a link to the contact us page.
     
-        ![Footer Screenshot](documentation/footerscreenshot.png)
+    ![Footer Screenshot](documentation/footerscreenshot.png)
 
 . Call to Action in the footer 
 - Allows users to contact us via the footer
