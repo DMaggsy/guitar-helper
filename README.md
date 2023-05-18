@@ -186,12 +186,19 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Design
 
-### Colour Scheme
+### Colour Scheme ID Via Hex Codes
 
-- The main colours used are white, Purple and Black.
-- Purple #310342
-- Black rgba(0, 0, 0, 0.7)
-- White #ffffff
+![Purple Color Hex](documentation/mainpurple.png)
+
+- The main color used throughout the site is 2C063F which is a purple color. This color was chosen as it's a color that's associated with music and is easy on the eye.
+
+![White Color Hex](documentation/mainwhite.png)
+
+- The secondary color used throughout the site is FFFFFF which is a white color. This color was chosen due to it's association with a classic looking website, with good contrast to purple and black.
+
+![Black Color Hex](documentation/mainblack.png)
+
+- The third color used throughout the site is 000000 which is a black color. This color was chosen due to it's contrasting effect against white and purple.
 
 ### Credits
 
