@@ -65,11 +65,11 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - Homepage
     
-        - The homepage allows users to navigate the entire site.
-        - Gives users a brief description of the site and what it's about.
-        - Allows users to explore external links.
-        - Allows users to explore the site and learn more about the guitar.
-        - Allows users to contact us via the footer.
+    - The homepage allows users to navigate the entire site.
+    - Gives users a brief description of the site and what it's about.
+    - Allows users to explore external links.
+    - Allows users to explore the site and learn more about the guitar.
+    - Allows users to contact us via the footer.
     
  ![Homepage Screenshot](documentation/homepagescreenshot.png)
 
