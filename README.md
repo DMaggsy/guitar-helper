@@ -151,6 +151,18 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
     - The list of places mirrors the header image for consistency
 
     ![Where to buy page](documentation/wheretobuyfull.png)
+
+<hr>
+
+- Contact us page
+ 
+    - The contact us page allows users to contact us with any questions they may have
+    - Gives users a form to fill out
+
+    ![Contact us page](documentation/contactusfull.png)
+
+
+
 ### List all pages here
 
 Home Page
