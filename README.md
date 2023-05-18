@@ -163,13 +163,13 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 
 
-### List all pages here
+### List of all pages
 
-Home Page
-How to learn page
-What to buy page
-Where to buy page
-Contact us page
+ - [Home Page](http://127.0.0.1:3000/index.html)
+ - [How to learn page](http://127.0.0.1:3000/htl.html)
+ - [What to buy page](http://127.0.0.1:3000/wtb.html)
+ - [Where to buy page](http://127.0.0.1:3000/wheretb.html)
+ - [Contact us page](http://127.0.0.1:3000/contact.html)
 
 
 ### Languages Used
