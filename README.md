@@ -73,12 +73,13 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
     
  ![Homepage Screenshot](documentation/homepagescreenshot.png)
 
+<hr>
 
 - Hero Section
 
- - The hero section allows users to see the main purpose of the site and what it's about
- - Allows users to see the main navigation bar
- - Allows users to see the main logo
+     - The hero section allows users to see the main purpose of the site and what it's about
+     - Allows users to see the main navigation bar
+     - Allows users to see the main logo
 
  ![Hero Section Screenshot](documentation/herosection.png)
 
@@ -86,9 +87,9 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - Intro Section
 
- - The intro section allows users to see the main purpose of the site and what it's about
- - Allows users to see the main navigation bar
- - Allows users to see the main logo
+     - The intro section allows users to see the main purpose of the site and what it's about
+     - Allows users to see the main navigation bar
+     - Allows users to see the main logo
 
 ![Intro Section Screenshot](documentation/introsection.png)
 
