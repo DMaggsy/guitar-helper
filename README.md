@@ -110,7 +110,17 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
       - This allows the user to explore some external links
       - These external links are aimed to provide additional support to the user in regard to learning guitar
 
-      
+      ![Homepage Second Tile Section](documentation/secondtilesection.png)
+
+<hr>
+
+- Footer 
+
+     -  The footer section includes links to the relevant social media sites for the organisation.
+     - The footer is valuable to the user as it encourages them to keep connected via social media.
+     - The footer also includes a link to the contact us page.
+    
+        ![Footer Screenshot](documentation/footerscreenshot.png)
 
 . Call to Action in the footer 
 - Allows users to contact us via the footer
