@@ -90,7 +90,7 @@ Contact us page
 
 ### Languages Used
 
-HTML was used as the foundation of the site.
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 CSS - was used to add the styles and layout of the site.
 CSS Flexbox - was used to arrange items simmetrically on the pages.
 CSS Grid - was used to make "gallery" and "contact" pages responsive.
