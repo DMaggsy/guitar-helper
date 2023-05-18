@@ -110,7 +110,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
       - This allows the user to explore some external links
       - These external links are aimed to provide additional support to the user in regard to learning guitar
 
-      ![Homepage Second Tile Section](documentation/secondtilesection.png)
+![Homepage Second Tile Section](documentation/secondtilesection.png)
 
 <hr>
 
@@ -121,6 +121,10 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - The footer also includes a link to the contact us page.
     
     ![Footer Screenshot](documentation/footerscreenshot.png)
+
+<hr>
+
+
 
 . Call to Action in the footer 
 - Allows users to contact us via the footer
