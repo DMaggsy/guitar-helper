@@ -1,10 +1,12 @@
 ![Guitar Helper Logo](assets/images/guitarhelperlogoreadme.png)
 
+<hr>
+
 # *Your Guitar Helper*
 
 Your guitar helper website is designed to help people initially start learning guitar, buy their first guitar that's right for them & where's best to buy said guitar. 
 
-The site can be accessed here: [link]>>>>>>>>>>>>>
+The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ![Responsive Mockup](responsive_mockup.png)
 
