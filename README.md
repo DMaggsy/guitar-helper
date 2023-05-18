@@ -207,6 +207,9 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ![Font Used In Logo](documentation/guitarhelperlogofont.png)
 
+- The font used for the headers is "Franklin Gothic Medium". This font was chosen because it's a bold font that stands out and is easy to read. 
+
+![Header Font](documentation/headerfont.png)
 
 
 <hr>
