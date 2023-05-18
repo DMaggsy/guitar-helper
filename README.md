@@ -124,31 +124,24 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 <hr>
 
+- How to learn page
 
+    - The how to learn page allows users to see how to learn guitar
+    - Gives top tips on achieving the best results
+    - The top tips list mirrors the header image for consistency
 
-. Call to Action in the footer 
-- Allows users to contact us via the footer
+    ![How to learn page](documentation/howtolearnfull.png)
 
-. How to learn page
-- The how to learn page allows users to see how to learn guitar
-- Gives top tips on achieving the best results
+<hr>
 
-. What to buy page
-- The what to buy page allows users to see what to buy when starting out
-- Gives external links to view the guitar under a retailers site
+- What to buy page
 
-. Where to buy page
-- The where to buy page allows users to see where to buy the guitar
-- Gives external links to view the guitar under a retailers site
+    - The what to buy page allows users to see what to buy when starting out
+    - Gives users a list of items to buy
+    - The list of items mirrors the header image for consistency
 
-. Contact us page
-- The contact us page allows users to contact us via a form
-- Gives users the option to contact us via social media
+    ![What to buy page](documentation/whattobuyfull.png)
 
-.The Footer 
-- The footer section includes links to the relevant social media sites for the organisation.
-- The footer is valuable to the user as it encourages them to keep connected via social media.
-- The footer also includes a link to the contact us page.
 
 ### List all pages here
 
