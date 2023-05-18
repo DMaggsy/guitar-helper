@@ -49,8 +49,20 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
  - The links have a hover effect to show the user that they can click on the link.
  - The navigation bar is easy for users to understand and navigate.
 
+ ![Dekstop Navbar](assets/images/desktopnavbar.png)
 
-. On Mobile version
+ - The navigation bar is responsive and collapses into a hamburger icon on mobile/tablet devices.
+
+     - On Mobile/Tablet versions of the site, the navigation bar is collapsed into a hamburger icon.
+
+     ![Mobile NavBar Closed](assets/images/mobilenavbar.png)
+    
+    - When the hamburger icon is clicked, the navigation bar opens up vertically.
+
+    ![Mobile Navbar Open](assets/images/mobilenavbaropen.png)
+
+<hr>
+
 - On the mobile version of the site, the navigation bar is collapsed into a hamburger icon which when clicked, opens up the navigation bar vertically.
 
 . Homepage
