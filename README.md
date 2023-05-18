@@ -142,7 +142,15 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
     ![What to buy page](documentation/whattobuyfull.png)
 
+<hr>
 
+- Where to buy page
+
+    - The where to buy page allows users to see where to buy the items listed on the what to buy page
+    - Gives users a list of places to buy the items
+    - The list of places mirrors the header image for consistency
+
+    ![Where to buy page](documentation/wheretobuyfull.png)
 ### List all pages here
 
 Home Page
