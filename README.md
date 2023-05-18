@@ -211,6 +211,9 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ![Header Font](documentation/headerfont.png)
 
+- The font used for the paragraphs is "Georgia". This font was chosen because it's a simple font that's easy to read.
+
+![Paragraph Font](documentation/parafont.png)
 
 <hr>
 
