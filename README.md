@@ -1,4 +1,4 @@
-![Guitar Helper Logo](assets\images\guitarhelperwebsitelogo.png)
+![Guitar Helper Logo](assets/images/guitarhelperwebsitelogo.png)
 
 # *Your Guitar Helper*
 
