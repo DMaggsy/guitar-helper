@@ -200,6 +200,11 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - The third color used throughout the site is 000000 which is a black color. This color was chosen due to it's contrasting effect against white and purple.
 
+
+### Typography
+
+- The website logo font 
+
 ### Credits
 
 . Homepage Images
