@@ -90,7 +90,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
  - Allows users to see the main navigation bar
  - Allows users to see the main logo
 
- ![Intro Section Screenshot](documentation/introsection.png)
+![Intro Section Screenshot](documentation/introsection.png)
 
 . Tile Section 
 - This allows the user to navigate to internal and external links
