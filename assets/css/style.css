@@ -48,6 +48,7 @@ text-decoration: none;
 .main {
   padding: 10px;
   flex: 1 0 auto;
+  background-color: #ffffff;
 }
 h1 {
   text-align: center;
