@@ -253,24 +253,29 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
  - The website was tested using the following browsers:
 
-     - Google Chrome 
+     - Google Chrome:
+
          ![Chrome](documentation/chromehomepage-gif.gif)
 
-     - Firefox 
+     - Firefox:
+
          ![Firefox](documentation/firefoxtester-gif.gif)
 
-     - Microsoft Edge 
+     - Microsoft Edge:
+
          ![Edge](documentation/microsoftedgetester-gif.gif)
 
-- Desktop Screens
 
+- The website was checked with [Responsive Website Design Tester.](https://responsivedesignchecker.com/)
+
+ - Desktop Screens
+
+     ![Homepage](documentation/homepage-gif.gif)
+     ![How to learn](documentation/howtolearn-gif.gif)
+     ![What to buy](documentation/whattobuy-gif.gif)
+     ![Where to buy](documentation/wheretb-gif.gif) 
      ![Contact us form](documentation/contactusform-gif.gif)
-     ![Home to Contact us Desktop](documentation/desktop-home-contactus-gif.gif)
-     ![Home to How to Learn Desktop](documentation/desktop-home-htl-gif.gif)
-     ![Home to Where to buy Desktop](documentation/desktop-home-wtb-gif.gif)
-     ![Where to buy to Contact us form Desktop](documentation/desktop-wheretb-contactusform-gif.gif)
-     ![Where to buy to Contact us Desktop](documentation/desktop-wheretb-contactus-gif.gif)
-     ![What to buy to Where to buy Desktop](documentation/desktop-wtb-wheretb-gif.gif)
+    
 
 ## Tablets 
 
