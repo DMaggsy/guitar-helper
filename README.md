@@ -253,19 +253,24 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
  - The website was tested using the following browsers:
 
-     - Google Chrome ![Chrome](documentation/chromehomepage-gif.gif)
-     - Firefox ![Firefox](documentation/firefoxtester-gif.gif)
-     - Microsoft Edge ![Edge](documentation/microsoftedgetester-gif.gif)
+     - Google Chrome 
+         - ![Chrome](documentation/chromehomepage-gif.gif)
+
+     - Firefox 
+         - ![Firefox](documentation/firefoxtester-gif.gif)
+
+     - Microsoft Edge 
+         - ![Edge](documentation/microsoftedgetester-gif.gif)
 
 - Desktop Screens
 
-     - ![Contact us Form on Desktop](documentation/desktop-contactusform-gif.gif)
-     - ![Home to Contact us Desktop](documentation/desktop-home-contactus-gif.gif)
-     - ![Home to How to Learn Desktop](documentation/desktop-home-htl-gif.gif)
-     - ![Home to Where to buy Desktop](documentation/desktop-home-wtb-gif.gif)
-     - ![Where to buy to Contact us form Desktop](documentation/desktop-wheretb-contactusform-gif.gif)
-     - ![Where to buy to Contact us Desktop](documentation/desktop-wheretb-contactus-gif.gif)
-     - ![What to buy to Where to buy Desktop](documentation/desktop-wtb-wheretb-gif.gif)
+     ![Contact us Form on Desktop](documentation/desktop-contactusform-gif.gif)
+     ![Home to Contact us Desktop](documentation/desktop-home-contactus-gif.gif)
+     ![Home to How to Learn Desktop](documentation/desktop-home-htl-gif.gif)
+     ![Home to Where to buy Desktop](documentation/desktop-home-wtb-gif.gif)
+     ![Where to buy to Contact us form Desktop](documentation/desktop-wheretb-contactusform-gif.gif)
+     ![Where to buy to Contact us Desktop](documentation/desktop-wheretb-contactus-gif.gif)
+     ![What to buy to Where to buy Desktop](documentation/desktop-wtb-wheretb-gif.gif)
 
 ## Tablets 
 
