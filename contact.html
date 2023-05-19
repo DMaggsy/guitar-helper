@@ -50,18 +50,20 @@
             <textarea aria-label="ask any specific questions here" class="message formEntry" placeholder="Message"></textarea>
             <input aria-label="click this checkbox if you agree to terms and conditions" type="checkbox" class="termsConditions" value="Term" id="terms">
             <label style="color: grey" for="terms"> I Accept the <span style="color: #0e3721">Terms of Use</span> &amp; <span style="color: #0e3721">Privacy Policy</span>.</label><br>
-            <button aria-label="Click here to submit form" class="submit formEntry" onclick="thanks()">Submit</button>
+            <button aria-label="Click here to submit form" class="submit formEntry" onclick="submitForm(event)">Submit</button>
           </form>
           <div id="thankyou" style="display: none;">
             <h2>Thank you for your message!</h2>
+            <br>
             <p>We appreciate your inquiry and will get back to you as soon as possible.</p>
+            <br>
           </div>
         </div>
       </div>
     </section>
   </main>
   <script>
-    function submitForm() {
+    function submitForm(event) {
       // Prevent the default form submission
       event.preventDefault();
   
