@@ -52,10 +52,31 @@
             <label style="color: grey" for="terms"> I Accept the <span style="color: #0e3721">Terms of Use</span> &amp; <span style="color: #0e3721">Privacy Policy</span>.</label><br>
             <button aria-label="Click here to submit form" class="submit formEntry" onclick="thanks()">Submit</button>
           </form>
+          <div id="thankyou" style="display: none;">
+            <h2>Thank you for your message!</h2>
+            <p>We appreciate your inquiry and will get back to you as soon as possible.</p>
+          </div>
         </div>
       </div>
     </section>
   </main>
+  <script>
+    function submitForm() {
+      // Prevent the default form submission
+      event.preventDefault();
+  
+      // Retrieve form data
+      var name = document.querySelector('.name').value;
+      var email = document.querySelector('.email').value;
+      var message = document.querySelector('.message').value;
+  
+      // You can perform additional validation or AJAX submission here
+  
+      // Hide the form and display the thank you message
+      document.querySelector('.form').style.display = 'none';
+      document.getElementById('thankyou').style.display = 'block';
+    }
+  </script>
   <script src="app.js"></script>
 </body>
 </main>
