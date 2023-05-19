@@ -262,7 +262,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
 
-
+![Lighthouse Test](documentation/lighthouse.png)
 
 ## Deployment
 
