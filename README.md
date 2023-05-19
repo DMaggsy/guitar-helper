@@ -264,7 +264,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - Desktop Screens
 
-     ![Contact us Form on Desktop](documentation/desktop-contactusform-gif.gif)
+     ![Contact us form](documentation/contactusform-gif.gif)
      ![Home to Contact us Desktop](documentation/desktop-home-contactus-gif.gif)
      ![Home to How to Learn Desktop](documentation/desktop-home-htl-gif.gif)
      ![Home to Where to buy Desktop](documentation/desktop-home-wtb-gif.gif)
