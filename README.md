@@ -271,7 +271,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
  - Desktop Screens
 
      ![Homepage](documentation/homepage-gif.gif)
-     ![How to learn](documentation/howtolearn-gif.gif)
+     ![How to learn](documentation/howtolearn-gif1.gif)
      ![What to buy](documentation/whattobuy-gif.gif)
      ![Where to buy](documentation/wheretb-gif.gif) 
      ![Contact us form](documentation/contactusform-gif.gif)
