@@ -252,7 +252,18 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Deployment
 
+- The site was deployed to Github pages. The steps to deploy are as follows:
+
+ - In the GitHub repository, navigate to the Settings tab
+ - From the source section drop-down menu, select the Master Branch, then click "Save".
+ - The page will automatically refresh. 
+
 ## Local Deployment
+
+- In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+     - git clone https://github.com./dmaggsy/your-guitar-helper.git
+
 
 ## Acknowledgements
 
