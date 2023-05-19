@@ -220,28 +220,31 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ### Credits
 
-- Homepage Images
- - [1st Image](https://www.pexels.com/photo/person-using-black-fender-stratocaster-1656066/)
+- Media
 
- - [2nd Image](https://www.pexels.com/photo/photo-of-man-carrying-acoustic-guitar-2462995/)
+     - [1st Image](https://www.pexels.com/photo/person-using-black-fender-stratocaster-1656066/)
 
- - [3rd Image](https://unsplash.com/photos/pMCP8c8_xi4)
+     - [2nd Image](https://www.pexels.com/photo/photo-of-man-carrying-acoustic-guitar-2462995/)
 
- - [4th Image](https://pixabay.com/photos/object-subject-coloured-background-5222329/)
+     - [3rd Image](https://unsplash.com/photos/pMCP8c8_xi4)
 
- - [5th Image](https://www.youtube.com/@MartyMusic)
+     - [4th Image](https://pixabay.com/photos/object-subject-coloured-background-5222329/)
 
- - [6th Image](https://unsplash.com/photos/KsNhJk-6yk0)
+     - [5th Image](https://www.youtube.com/@MartyMusic)
 
- - [7th Image](https://unsplash.com/photos/a9LrwVtyiZw)
+     - [6th Image](https://unsplash.com/photos/KsNhJk-6yk0)
 
-- [TinyPNG](https://tinypng.com/) was used to compress all images.
-- was used to compress the gif files.
-- [Code-Institute][https://github.com/Code-Institute-Org/ci-full-template] provided the template for files.
-- [Codepen](https://codepen.io/shantedenise/pen/GYyxWV) provided the base for the "Contact us" form.
-- [Font-Awesome](https://fontawesome.com/) was used for the social media icons in the footer.
-- [W3schools](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [Kevin Powell][https://www.youtube.com/@KevinPowell] gave me the inspiration for the navigation bar.
-- [Canva][https://www.canva.com/] was used to create the logo.
+     - [7th Image](https://unsplash.com/photos/a9LrwVtyiZw)
+
+- Content
+
+     - [TinyPNG](https://tinypng.com/) was used to compress all images.
+     - [Adobe Express](https://express.adobe.com/sp/tools/) was used to compress the gif files.
+     - [Code-Institute](https://github.com/Code-Institute-Org/ci-full-template) provided the template for files.
+     - [Codepen](https://codepen.io/shantedenise/pen/GYyxWV) provided the base for the "Contact us" form.
+     - [Font-Awesome](https://fontawesome.com/) was used for the social media icons in the footer.
+     - [W3schools](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [Kevin Powell][https://www.youtube.com/@KevinPowell] gave me the inspiration for the navigation bar.
+     - [Canva][https://www.canva.com/] was used to create the logo.
 
 
 ### Testing
