@@ -249,6 +249,14 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ### Testing
 
+-  In order to confirm the correct functionality, responsiveness, and appearance:
+
+ - The website was tested using the following browsers:
+
+     - Google Chrome ![Chrome](documentation/chromehomepage-gif.gif)
+     - Firefox ![Firefox](documentation/firefoxtester-gif.gif)
+     - Microsoft Edge ![Edge](documentation/microsoftedgetester-gif.gif)
+
 - Desktop Screens
 
      - ![Contact us Form on Desktop](documentation/desktop-contactusform-gif.gif)
@@ -258,7 +266,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - ![Where to buy to Contact us form Desktop](documentation/desktop-wheretb-contactusform-gif.gif)
      - ![Where to buy to Contact us Desktop](documentation/desktop-wheretb-contactus-gif.gif)
      - ![What to buy to Where to buy Desktop](documentation/desktop-wtb-wheretb-gif.gif)
-     
+
 ## Tablets 
 
 ## Mobile Devices 
