@@ -283,7 +283,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      ![How to Learn Tablet](documentation/howtolean-tablet-gif.gif)
      ![What to buy Tablet](documentation/whattobuy-tablet-gif.gif)
      ![Where to buy Tablet](documentation/wheretobuy-tablet-gif.gif)
-     - 
+     ![Contact us Tablet](documentation/contactus-tablet-gif.gif)
 
 ## Mobile Devices 
 
