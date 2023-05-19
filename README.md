@@ -248,7 +248,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Desktop
 
-
+![Contact us Form on Desktop](documentation/desktop-contactusform-gif.gif)
 
 ## Tablets 
 
