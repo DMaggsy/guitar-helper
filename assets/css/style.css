@@ -478,18 +478,20 @@ img {
 
 .name {
   background-color: #ebebeb;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .email {
   background-color: #ebebeb;
   height: 2em;
+  color: rgb(0, 0, 0);
 }
 
 .message {
   background-color: #ebebeb;
   overflow: hidden;
   height: 10rem;
+  color: rgb(0, 0, 0);
 }
 .formEntry {
   display: block;
@@ -559,7 +561,6 @@ footer a {
 }
 
 
-
 .contactus {
   background-color: #310342;
   display: flex; /* set the container to use flexbox layout */
@@ -588,6 +589,8 @@ button:hover {
   background-color: #fbff0f;
   color: black;
 }
+
+
 /* apply vertical layout for screens smaller than 768px */
 @media (max-width: 767px) {
   .footertext {
