@@ -254,13 +254,13 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
  - The website was tested using the following browsers:
 
      - Google Chrome 
-         - ![Chrome](documentation/chromehomepage-gif.gif)
+         ![Chrome](documentation/chromehomepage-gif.gif)
 
      - Firefox 
-         - ![Firefox](documentation/firefoxtester-gif.gif)
+         ![Firefox](documentation/firefoxtester-gif.gif)
 
      - Microsoft Edge 
-         - ![Edge](documentation/microsoftedgetester-gif.gif)
+         ![Edge](documentation/microsoftedgetester-gif.gif)
 
 - Desktop Screens
 
