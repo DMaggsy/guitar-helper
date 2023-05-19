@@ -258,6 +258,12 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Validator Testing
 
+## Accessability and perfomance
+
+- Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
+
+
+
 ## Deployment
 
 - The site was deployed to Github pages. The steps to deploy are as follows:
