@@ -238,13 +238,21 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 - [TinyPNG](https://tinypng.com/) was used to compress all images.
 - was used to compress the gif files.
 - [Code-Institute][https://github.com/Code-Institute-Org/ci-full-template] provided the template for files.
-- [Codepen][https://codepen.io/shantedenise/pen/GYyxWV] provided the base for the "Contact us" form.
-- [Font-Awesome][https://fontawesome.com/] was used for the social media icons in the footer.
+- [Codepen](https://codepen.io/shantedenise/pen/GYyxWV) provided the base for the "Contact us" form.
+- [Font-Awesome](https://fontawesome.com/) was used for the social media icons in the footer.
 - [W3schools](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [Kevin Powell][https://www.youtube.com/@KevinPowell] gave me the inspiration for the navigation bar.
 - [Canva][https://www.canva.com/] was used to create the logo.
 
 
-## Testing
+### Testing
+
+## Desktop
+
+
+
+## Tablets 
+
+## Mobile Devices 
 
 ### Bugs
 
@@ -269,11 +277,13 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Wireframes 
 
+## Desktop
+
+## Tablets
+
 ## Mobile Devices 
 
-## Tablets 
 
-## Desktop
 
 [https://codepen.io/shantedenise/pen/GYyxWV]: https://codepen.io/shantedenise/pen/GYyxWV
 [https://www.youtube.com/@KevinPowell]: https://www.youtube.com/@KevinPowell
