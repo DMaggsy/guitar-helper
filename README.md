@@ -277,7 +277,13 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      ![Contact us form](documentation/contactusform-gif.gif)
     
 
-## Tablets 
+ - Tablets
+
+     ![Homepage Tablet](documentation/homepage-tablet-gif.gif)
+     ![How to Learn Tablet](documentation/howtolean-tablet-gif.gif)
+     ![What to buy Tablet](documentation/whattobuy-tablet-gif.gif)
+     ![Where to buy Tablet](documentation/wheretobuy-tablet-gif.gif)
+     - 
 
 ## Mobile Devices 
 
