@@ -246,6 +246,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - [W3schools](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [Kevin Powell][https://www.youtube.com/@KevinPowell] gave me the inspiration for the navigation bar.
      - [Canva][https://www.canva.com/] was used to create the logo.
 
+<hr>
 
 ### Testing
 
@@ -305,6 +306,8 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - ![Where to buy Mobile](documentation/wheretobuy-mobile-gif.gif)
 
      - ![Contact us Mobile](documentation/contactus-mobile-gif.gif)
+
+<hr>
 
 
 ### Bugs
