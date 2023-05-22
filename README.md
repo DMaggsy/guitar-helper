@@ -270,22 +270,42 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
  - Desktop Screens
 
-     ![Homepage](documentation/homepage-gif.gif)
-     ![How to learn](documentation/howtolearn-gif1.gif)
-     ![What to buy](documentation/whattobuy-gif.gif)
-     ![Where to buy](documentation/wheretb-gif.gif) 
-     ![Contact us form](documentation/contactusform-gif.gif)
+     - ![Homepage](documentation/homepage-gif.gif)
+     
+     - ![How to learn](documentation/howtolearn-gif1.gif)
+
+     - ![What to buy](documentation/whattobuy-gif.gif)
+
+     - ![Where to buy](documentation/wheretb-gif.gif)
+
+     - ![Contact us form](documentation/contactusform-gif.gif)
     
 
  - Tablets
 
-     ![Homepage Tablet](documentation/homepage-tablet-gif.gif)
-     ![How to Learn Tablet](documentation/howtolean-tablet-gif.gif)
-     ![What to buy Tablet](documentation/whattobuy-tablet-gif.gif)
-     ![Where to buy Tablet](documentation/wheretobuy-tablet-gif.gif)
-     ![Contact us Tablet](documentation/contactus-tablet-gif.gif)
+     - ![Homepage Tablet](documentation/homepage-tablet-gif.gif)
 
-## Mobile Devices 
+     - ![How to Learn Tablet](documentation/howtolean-tablet-gif.gif)
+
+     - ![What to buy Tablet](documentation/whattobuy-tablet-gif.gif)
+
+     - ![Where to buy Tablet](documentation/wheretobuy-tablet-gif.gif)
+
+     - ![Contact us Tablet](documentation/contactus-tablet-gif.gif)
+
+
+- Mobile Devices 
+    
+     - ![Homepage Mobile](documentation/home-mobile-gif.gif)
+
+     - ![How to learn Mobile](documentation/howtolearn-mobile-gif.gif)
+
+     - ![What to buy Mobile](documentation/whattobuy-mobile-gif.gif)
+
+     - ![Where to buy Mobile](documentation/wheretobuy-mobile-gif.gif)
+
+     - ![Contact us Mobile](documentation/contactus-mobile-gif.gif)
+
 
 ### Bugs
 
