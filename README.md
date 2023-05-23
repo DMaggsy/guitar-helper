@@ -416,11 +416,12 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Mobile Devices 
 
+![Homepage Mobile](documentation/mobile-home.png)
 
+![How to learn Mobile](documentation/mobile-htl.png)
 
-[https://codepen.io/shantedenise/pen/GYyxWV]: https://codepen.io/shantedenise/pen/GYyxWV
-[https://www.youtube.com/@KevinPowell]: https://www.youtube.com/@KevinPowell
-[https://www.canva.com/]: https://www.canva.com/ "Canva"
-[https://images.pexels.com/photos/1656066/pexels-photo-1656066.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800]: https://images.pexels.com/photos/1656066/pexels-photo-1656066.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800
-[https://images.pexels.com/photos/2462995/pexels-photo-2462995.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800]: https://images.pexels.com/photos/2462995/pexels-photo-2462995.jpeg?auto=compress&amp%3Bcs=tinysrgb&amp%3Bfit=crop&amp%3Bh=1200&amp%3Bw=800
-[def]: https://unsplash.com/photos/pMCP8c8_xi4
+![What to buy Mobile](documentation/mobile-wtb.png)
+
+![Where to buy Mobile](documentation/mobile-wheretb.png)
+
+![Contact Mobile](documentation/mobile-contactus.png)
