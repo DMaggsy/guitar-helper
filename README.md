@@ -283,8 +283,8 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - [Code-Institute](https://github.com/Code-Institute-Org/ci-full-template) provided the template for files.
      - [Codepen](https://codepen.io/shantedenise/pen/GYyxWV) provided the base for the "Contact us" form.
      - [Font-Awesome](https://fontawesome.com/) was used for the social media icons in the footer.
-     - [W3schools](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [Kevin Powell][https://www.youtube.com/@KevinPowell] gave me the inspiration for the navigation bar.
-     - [Canva][https://www.canva.com/] was used to create the logo.
+     - [W3schools](https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp) and [Kevin Powell](https://www.youtube.com/@KevinPowell) gave me the inspiration for the navigation bar.
+     - [Canva](https://www.canva.com/) was used to create the logo.
 
 <hr>
 
@@ -351,6 +351,22 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 
 ### Bugs
+
+- Solved bugs
+
+     - The navigation bar was not responsive on mobile devices. This was solved by adding a media query to the CSS file.
+     - The contact us form was not readable on mobile due to there being no real border around the input fields. This was fixed by adding a solid border around the input fields.
+     - The footer, would sometimes not stick to the bottom of the page. This was fixed by following the method presented by [Materialize](https://materializecss.com/footer.html).
+
+
+- Unsolved bugs
+
+     - None
+
+- Mistakes
+
+     - Mistakes were made when committing changes. As this was my first project, I was not aware of the correct way to commit changes. I have since learned the correct way to commit changes and will be using this method going forward.
+     
 
 ## Validator Testing
 
