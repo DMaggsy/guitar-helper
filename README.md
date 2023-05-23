@@ -404,6 +404,16 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Tablets
 
+![Homepage Tablet](documentation/tablet-home-wf.png)
+
+![How to learn Tablet](documentation/tablet-htl-wf.png)
+
+![What to buy Tablet](documentation/tablet-wtb-wf.png)
+
+![Where to buy Tablet](documentation/tablet-wheretb-wf.png)
+
+![Contact us Tablet](documentation/tablet-contact-wf.png)
+
 ## Mobile Devices 
 
 
