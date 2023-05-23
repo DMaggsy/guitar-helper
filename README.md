@@ -317,6 +317,19 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 - HTML
 
      - Homepage  
+     ![Homepage HTML CHecker](documentation/homepage-html-checker.png)
+
+     - How to learn page
+     ![How to learn HTML Checker](documentation/htl-html-checker.png)
+
+     - What to buy page
+     ![What to buy HTML Checker](documentation/wtb-html-checker.png)
+
+     - Where to buy page
+     ![Where to buy HTML Checker](documentation/wheretb-html-checker.png)
+
+     - Contact us page
+     ![Contact us HTML Checker](documentation/contact-html-checker.png)
 
 ## Accessability and perfomance
 
