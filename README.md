@@ -346,6 +346,26 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
      ![Contact us HTML Checker](documentation/contact-html-checker.png)
 
+
+- CSS
+
+ - Two errors were found in the initial CSS validation. These were:
+
+     - Line 370: "background-color: oli", instead of the intended "background-color: olive".
+     - Line 515: "Property tranform doesn't exist", instead of the intended "transform: translate(0,4px)"
+
+- Two warnings were highlighted in the initial CSS Validation. These were:
+
+     - ":: -webkit-input-placeholder is a vendor extended pseudo element". I am aware that the webkit may lead to some warnings/errors, however the website is working perfectly and has been tested multiple times by multiple users.
+     - Line 516: "No declarations in the rule", this was due to the type on "tranform" instead of "transform".
+
+     
+     -  ![Initial CSS Check](documentation/css-checker.png)
+
+- Result after fixing the above: 
+
+     - ![CSS Check no errors](documentation/css-noerrors.png)
+
 ## Accessability and perfomance
 
 - Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
