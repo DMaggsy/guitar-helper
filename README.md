@@ -32,6 +32,8 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 - As a frequent visitor, I want to check to see if there are any newly added links to other sites.
 - As a frequent visitor, I want to see if there's any additional information on guitar I can learn.
 
+<hr>
+
 ## Features 
 
 - NavBar
@@ -161,7 +163,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
     ![Contact us page](documentation/contactusfull.png)
 
-
+<hr>
 
 ### List of all pages
 
@@ -171,6 +173,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
  - [Where to buy page](http://127.0.0.1:3000/wheretb.html)
  - [Contact us page](http://127.0.0.1:3000/contact.html)
 
+<hr>
 
 ### Languages Used
 
@@ -200,6 +203,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - The third color used throughout the site is 000000 which is a black color. This color was chosen due to it's contrasting effect against white and purple.
 
+<hr>
 
 ### Typography
 
@@ -235,6 +239,10 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - [6th Image](https://unsplash.com/photos/KsNhJk-6yk0)
 
      - [7th Image](https://unsplash.com/photos/a9LrwVtyiZw)
+
+     - [8th Image](https://www.dreamstime.com/searching-bar-behind-person-s-pointed-finger-image181476473#res29250703)
+
+     - [9th Image](https://www.freepik.com/free-photo/front-view-young-male-sitting-with-guitar-red-wall-music-performance-musician-color-applause-play-live-concert_17187172.htm)
 
 
 - Guitar Grid Images 
@@ -275,6 +283,10 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - [GAK](https://www.gak.co.uk/)
 
      - [Peach Guitars](https://www.peachguitars.com/)
+
+- Icons on How to learn page
+
+     - [Canva](https://www.canva.com/) was used to create all of these icons.
 
 - Content
 
@@ -368,6 +380,8 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - Mistakes were made when committing changes. As this was my first project, I was not aware of the correct way to commit changes. I have since learned the correct way to commit changes and will be using this method going forward.
      
 
+<hr>     
+
 ## Validator Testing
 
 - HTML
@@ -423,11 +437,16 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
      - ![CSS Check no errors](documentation/css-noerrors.png)
 
+
+ <hr>    
+
 ## Accessability and perfomance
 
 - Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
 
 ![Lighthouse Test](documentation/lighthouse.png)
+
+<hr>
 
 ## Deployment
 
@@ -437,12 +456,15 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
  - From the source section drop-down menu, select the Master Branch, then click "Save".
  - The page will automatically refresh. 
 
+<hr>
+
 ## Local Deployment
 
 - In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
 
      - git clone https://github.com./dmaggsy/your-guitar-helper.git
 
+<hr>
 
 ## Wireframes 
 
