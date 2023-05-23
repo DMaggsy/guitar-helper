@@ -236,6 +236,46 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
      - [7th Image](https://unsplash.com/photos/a9LrwVtyiZw)
 
+
+- Guitar Grid Images 
+
+     - [Epiphone SG](https://www.gear4music.com/Guitar-and-Bass/Epiphone-SG-Special-VE-Vintage-Cherry/1WZZ)
+     
+     - [Epiphone Les Paul](https://www.gear4music.com/Guitar-and-Bass/Epiphone-Les-Paul-Standard-60s-Bourbon-Burst/399Y)
+
+     - [Fender Strat](https://www.gear4music.com/Guitar-and-Bass/Fender-Player-Stratocaster-HSS-MN-Polar-White/2H4X)
+
+     - [Squier Telecaster 50's Vive](https://www.guitarguitar.co.uk/product/190603344426008--squier-classic-vibe-50s-telecaster-butterscotch-blonde-maple-fi)
+
+     - [Epiphone Sheraton](https://www.absolutemusic.co.uk/epiphone-sheraton-ii-pro-electric-guitar-vintage-sunburst.html)
+
+     - [Fender Telecaster Player Plus](https://www.absolutemusic.co.uk/fender-player-plus-telecaster-electric-guitar-aged-candy-apple-red-mn-b-stock.html)
+
+     - [Ibanez RG GIO](https://www.absolutemusic.co.uk/ibanez-rg-gio-grgr221pa-aqb-electric-guitar-aqua-burst.html)
+
+     - [Jackson Snow White](https://www.absolutemusic.co.uk/jackson-slx-m-dx-electric-guitar-snow-white.html)
+
+     - [Ibanez RG Blue Wave](https://www.absolutemusic.co.uk/ibanez-rg-standard-rg421hpah-bwb-electric-guitar-blue-wave-black.html)
+
+
+- Where to buy Images
+
+     - [Absolute Music](https://www.absolutemusic.co.uk/)
+
+     - [Gear4Music](https://www.gear4music.com/)
+
+     - [Guitar Village](https://www.guitarvillage.co.uk/)
+
+     - [Guitar Guitar](https://www.guitarguitar.co.uk/)
+
+     - [PMT](https://www.pmtonline.co.uk/products/guitar)
+
+     - [Andertons](https://www.andertons.co.uk/)
+
+     - [GAK](https://www.gak.co.uk/)
+
+     - [Peach Guitars](https://www.peachguitars.com/)
+
 - Content
 
      - [TinyPNG](https://tinypng.com/) was used to compress all images.
