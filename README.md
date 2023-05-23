@@ -388,11 +388,11 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
      - git clone https://github.com./dmaggsy/your-guitar-helper.git
 
 
-## Acknowledgements
-
 ## Wireframes 
 
 ## Desktop
+
+
 
 ## Tablets
 
