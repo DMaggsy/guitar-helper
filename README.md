@@ -349,6 +349,7 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - CSS
 
+ - The CSS file was checked using the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
  - Two errors were found in the initial CSS validation. These were:
 
      - Line 370: "background-color: oli", instead of the intended "background-color: olive".
