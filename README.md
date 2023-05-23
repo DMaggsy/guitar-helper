@@ -316,19 +316,34 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 - HTML
 
-     - Homepage  
+ - Homepage  
+
+     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+
      ![Homepage HTML CHecker](documentation/homepage-html-checker.png)
 
-     - How to learn page
+ - How to learn page
+
+     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+
      ![How to learn HTML Checker](documentation/htl-html-checker.png)
 
-     - What to buy page
+ - What to buy page
+
+     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+
      ![What to buy HTML Checker](documentation/wtb-html-checker.png)
 
-     - Where to buy page
+ - Where to buy page
+
+     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+
      ![Where to buy HTML Checker](documentation/wheretb-html-checker.png)
 
-     - Contact us page
+ - Contact us page
+
+     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+
      ![Contact us HTML Checker](documentation/contact-html-checker.png)
 
 ## Accessability and perfomance
