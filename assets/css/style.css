@@ -367,7 +367,6 @@ img {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-color: oli;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
   margin-bottom: 20px;
@@ -512,7 +511,7 @@ img {
 
 @keyframes bounce {
   0% {
-    tranform: translate(0, 4px);
+    transform: translate(0, 4px);
   }
   50% {
     transform: translate(0, 8px);
