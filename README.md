@@ -392,7 +392,15 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Desktop
 
+![Homepage Wireframe](documentation/desktop-homepage-wf.png)
 
+![How to learn Wireframe](documentation/desktop-htl-wf.png)
+
+![What to buy Wireframe](documentation/desktop-wtb-wf.png)
+
+![Where to buy Wireframe](documentation/desktop-wheretb-wf.png)
+
+![Contact us Wireframe](documentation/desktop-contact-wf.png)
 
 ## Tablets
 
