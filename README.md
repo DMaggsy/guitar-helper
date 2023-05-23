@@ -314,6 +314,10 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ## Validator Testing
 
+- HTML
+
+     - Homepage  
+
 ## Accessability and perfomance
 
 - Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.

@@ -572,7 +572,7 @@ footer a {
   text-align: center;
 
 }
-button {
+.button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -584,8 +584,9 @@ button {
   margin-top: 5px;
   margin: 4px 2px;
   cursor: pointer;
+  border-radius: 5px;
 }
-button:hover {
+.button:hover {
   background-color: #fbff0f;
   color: black;
 }
