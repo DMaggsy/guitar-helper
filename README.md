@@ -514,6 +514,9 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 2. Favicon
  - A favicon will be added to enhance the website's branding and visual appeal. The favicon is a small icon that appears in the browser tab and bookmarks. It helps users quickly identify and locate your website among their open tabs or saved bookmarks.
 
+3. Fully Functional Contact Us Form
+ - The existing contact us form, which is currently only visually designed, will be upgraded to a fully functional form. This improvement will allow visitors to submit inquiries, feedback, or requests directly from the website. The form will be integrated with a backend system to ensure that submissions are properly received and processed. Upon submission, users will receive confirmation messages or email notifications to acknowledge their contact requests.
+
 ## Wireframes 
 
 ## Desktop
