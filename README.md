@@ -442,11 +442,14 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
  <hr>    
 
-## Accessability and perfomance
+## Lighthouse Testing
 
 - Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
 
-![Lighthouse Test](documentation/lighthouse.png)
+      - Homepage Testing 
+      ![Lighthouse Test](documentation/lighthouse.png)
+
+      
 
 <hr>
 
