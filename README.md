@@ -247,34 +247,36 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 - Guitar Grid Images 
 
-     - [Epiphone SG](https://www.gear4music.com/Guitar-and-Bass/Epiphone-SG-Special-VE-Vintage-Cherry/1WZZ)
+     - [Epiphone SG](https://www.gear4music.com/Guitar-and-Bass/Epiphone-SG-Special-VE-Vintage-Cherry/1WZZ) purchasable from Gear4Music via this link.
      
-     - [Epiphone Les Paul](https://www.gear4music.com/Guitar-and-Bass/Epiphone-Les-Paul-Standard-60s-Bourbon-Burst/399Y)
+     - [Epiphone Les Paul](https://www.gear4music.com/Guitar-and-Bass/Epiphone-Les-Paul-Standard-60s-Bourbon-Burst/399Y) purchasable from Gear4Music via this link.
 
-     - [Fender Strat](https://www.gear4music.com/Guitar-and-Bass/Fender-Player-Stratocaster-HSS-MN-Polar-White/2H4X)
+     - [Fender Strat](https://www.gear4music.com/Guitar-and-Bass/Fender-Player-Stratocaster-HSS-MN-Polar-White/2H4X) purchasable from Gear4Music via this link.
 
-     - [Squier Telecaster 50's Vive](https://www.guitarguitar.co.uk/product/190603344426008--squier-classic-vibe-50s-telecaster-butterscotch-blonde-maple-fi)
+     - [Squier Telecaster 50's Vive](https://www.guitarguitar.co.uk/product/190603344426008--squier-classic-vibe-50s-telecaster-butterscotch-blonde-maple-fi) purchasable from GuitarGuitar via this link.
 
-     - [Epiphone Sheraton](https://www.absolutemusic.co.uk/epiphone-sheraton-ii-pro-electric-guitar-vintage-sunburst.html)
+     - [Epiphone Sheraton](https://www.absolutemusic.co.uk/epiphone-sheraton-ii-pro-electric-guitar-vintage-sunburst.html) purchasable from Absolute Music via this link.
 
-     - [Fender Telecaster Player Plus](https://www.absolutemusic.co.uk/fender-player-plus-telecaster-electric-guitar-aged-candy-apple-red-mn-b-stock.html)
+     - [Fender Telecaster Player Plus](https://www.absolutemusic.co.uk/fender-player-plus-telecaster-electric-guitar-aged-candy-apple-red-mn-b-stock.html) purchasable from Absolute Music via this link.
 
-     - [Ibanez RG GIO](https://www.absolutemusic.co.uk/ibanez-rg-gio-grgr221pa-aqb-electric-guitar-aqua-burst.html)
+     - [Ibanez RG GIO](https://www.absolutemusic.co.uk/ibanez-rg-gio-grgr221pa-aqb-electric-guitar-aqua-burst.html) purchasable from Absolute Music via this link.
 
-     - [Jackson Snow White](https://www.absolutemusic.co.uk/jackson-slx-m-dx-electric-guitar-snow-white.html)
+     - [Jackson Snow White](https://www.absolutemusic.co.uk/jackson-slx-m-dx-electric-guitar-snow-white.html) purchasable from Absolute Music via this link.
 
-     - [Ibanez RG Blue Wave](https://www.absolutemusic.co.uk/ibanez-rg-standard-rg421hpah-bwb-electric-guitar-blue-wave-black.html)
+     - [Ibanez RG Blue Wave](https://www.absolutemusic.co.uk/ibanez-rg-standard-rg421hpah-bwb-electric-guitar-blue-wave-black.html) purchasable from Absolute Music via this link.
 
 
-- Where to buy Images
+- Where to buy page 
 
-     - [Absolute Music](https://www.absolutemusic.co.uk/)
+ - Image sources & links to purchasing guitars.
 
-     - [Gear4Music](https://www.gear4music.com/)
+     - [Absolute Music](https://www.absolutemusic.co.uk/) 
 
-     - [Guitar Village](https://www.guitarvillage.co.uk/)
+     - [Gear4Music](https://www.gear4music.com/) 
 
-     - [Guitar Guitar](https://www.guitarguitar.co.uk/)
+     - [Guitar Village](https://www.guitarvillage.co.uk/) 
+
+     - [Guitar Guitar](https://www.guitarguitar.co.uk/) 
 
      - [PMT](https://www.pmtonline.co.uk/products/guitar)
 
