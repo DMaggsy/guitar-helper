@@ -447,10 +447,19 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 - Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
 
       - Homepage Testing 
-      ![Lighthouse Test](documentation/lighthouse.png)
+      ![Homepage Lighthouse Test](documentation/lighthouse.png)
 
       - How to learn Testing
-      
+      ![How to learn Lighthouse](documentation/htl-lighthouse.png)
+
+      - What to buy Testing
+      ![What to buy Lighthouse](documentation/wtb-lighthouse.png)
+
+      - Where to buy Testing
+      ![Where to buy Lighthouse](documentation/wheretb-lighthouse.png)
+
+      - Contact us Testing
+      ![Contact us Lighthouse](documentation/contactus-lighthouse.png)
 
 <hr>
 
