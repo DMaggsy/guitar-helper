@@ -45,10 +45,10 @@
           <form aria-label="This is a contact form if you have any questions about guitar" class="form">
             <div class="pageTitle title">Still a bit confused?</div>
             <div class="secondaryTitle title">Pop us a message &amp; we'll try help.</div>
-            <input aria-label="type you name here" type="text" class="name formEntry" placeholder="Name">
-            <input aria-label="type your email here" type="email" class="email formEntry" placeholder="Email">
-            <textarea aria-label="ask any specific questions here" class="message formEntry" placeholder="Message"></textarea>
-            <input aria-label="click this checkbox if you agree to terms and conditions" type="checkbox" class="termsConditions" value="Term" id="terms">
+            <input aria-label="type your name here" type="text" class="name formEntry" placeholder="Name" required>
+            <input aria-label="type your email here" type="email" class="email formEntry" placeholder="Email" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}" required>
+            <textarea aria-label="ask any specific questions here" class="message formEntry" placeholder="Message" required></textarea>
+            <input aria-label="click this checkbox if you agree to terms and conditions" type="checkbox" class="termsConditions" value="Term" id="terms" required>
             <label style="color: grey" for="terms"> I Accept the <span style="color: #0e3721">Terms of Use</span> &amp; <span style="color: #0e3721">Privacy Policy</span>.</label><br>
             <button aria-label="Click here to submit form" class="submit formEntry" onclick="submitForm(event)">Submit</button>
           </form>
@@ -60,27 +60,9 @@
           </div>
         </div>
       </div>
+      
     </section>
   </main>
-  <script>
-    function submitForm(event) {
-      // Prevent the default form submission
-      event.preventDefault();
-  
-      // Retrieve form data
-      var name = document.querySelector('.name').value;
-      var email = document.querySelector('.email').value;
-      var message = document.querySelector('.message').value;
-  
-      // You can perform additional validation or AJAX submission here
-  
-      // Hide the form and display the thank you message
-      document.querySelector('.form').style.display = 'none';
-      document.getElementById('thankyou').style.display = 'block';
-    }
-  </script>
-  <script src="app.js"></script>
-  
 <!--Footer content begins-->
 <footer class="footer-container"> 
 
@@ -124,5 +106,23 @@
 
  </div>
 </footer>
+<script>
+  function submitForm(event) {
+    // Prevent the default form submission
+    event.preventDefault();
+
+    // Retrieve form data
+    var name = document.querySelector('.name').value;
+    var email = document.querySelector('.email').value;
+    var message = document.querySelector('.message').value;
+
+    // You can perform additional validation or AJAX submission here
+
+    // Hide the form and display the thank you message
+    document.querySelector('.form').style.display = 'none';
+    document.getElementById('thankyou').style.display = 'block';
+  }
+</script>
+<script src="app.js"></script>
 </body>
 </html>
