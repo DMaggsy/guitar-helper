@@ -506,6 +506,14 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 <hr>
 
+## Future Implementations
+
+1. Custom 404 Page
+ - A custom 404 page will be implemented to provide a user-friendly experience when visitors encounter a page that cannot be found. The 404 page will include relevant information, such as an apology message, suggestions for navigation, and a search bar to help users find the content they were looking for.
+
+2. Favicon
+ - A favicon will be added to enhance the website's branding and visual appeal. The favicon is a small icon that appears in the browser tab and bookmarks. It helps users quickly identify and locate your website among their open tabs or saved bookmarks.
+
 ## Wireframes 
 
 ## Desktop
