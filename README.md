@@ -449,6 +449,7 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
       - Homepage Testing 
       ![Lighthouse Test](documentation/lighthouse.png)
 
+      - How to learn Testing
       
 
 <hr>
