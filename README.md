@@ -467,9 +467,29 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 - The site was deployed to Github pages. The steps to deploy are as follows:
 
- - In the GitHub repository, navigate to the Settings tab
- - From the source section drop-down menu, select the Master Branch, then click "Save".
- - The page will automatically refresh. 
+      1. In the GitHub repository, navigate to the Settings tab located at the top of the repository page.
+
+      ![Step1](documentation/Step1.png)
+
+      2. Scroll down to the GitHub Pages section, which is usually located near the bottom of the page.
+
+      ![Step2](documentation/step2.png)
+
+      3. In the Source section, you will find a drop-down menu. Click on the drop-down menu to expand the options.
+
+      4. From the drop-down menu, select the Master Branch option. This tells GitHub Pages to use the master branch of your repository as the source for deployment.
+
+      ![Step3](documentation/step3.png)
+
+      5. Once you have selected the Master Branch option, click on the Save button.
+
+      6. The page will automatically refresh to reflect the changes you made.
+
+      7. Scroll back down to the GitHub Pages section, and you will see a notification indicating that your site is being deployed. It may take a few moments for the deployment process to complete.
+
+      8. Once the deployment process is finished, you will see a message with the URL where your site is published. It will typically be in the format https://<your-github-username>.github.io/<repository-name>, where <your-github-username> is your GitHub username and <repository-name> is the name of your repository.
+
+      9. Click on the URL to verify that your site has been successfully deployed. The link should open your site in a new browser tab.
 
 <hr>
 
