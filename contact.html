@@ -108,13 +108,19 @@
 </footer>
 <script>
   function submitForm(event) {
-    // Prevent the default form submission
-    event.preventDefault();
-
     // Retrieve form data
     var name = document.querySelector('.name').value;
     var email = document.querySelector('.email').value;
     var message = document.querySelector('.message').value;
+
+    // Perform email validation
+    var emailRegex = /^\S+@\S+\.\S+$/;
+    if (!emailRegex.test(email)) {
+      // Display an error message or perform any other desired action
+      alert("Please enter a valid email address.");
+      event.preventDefault(); // Prevent form submission
+      return;
+    }
 
     // You can perform additional validation or AJAX submission here
 
