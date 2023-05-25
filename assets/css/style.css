@@ -424,6 +424,7 @@ img {
 .message {
   background-color: #ebebeb;
   overflow: hidden;
+  resize: none;
   height: 10rem;
   color: rgb(0, 0, 0);
 }
@@ -585,6 +586,8 @@ footer a {
     flex-direction: column;
   }
 /* Media query for contact form */
+
+
   @keyframes bounce {
     0% {
       transform: translate(0, 4px);
