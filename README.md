@@ -6,7 +6,7 @@
 
 Your guitar helper website is designed to help people initially start learning guitar, buy their first guitar that's right for them & where's best to buy said guitar. 
 
-The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
+The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/)
 
 ![Responsive Mockup](documentation/responsivemockup.png)
 
@@ -167,11 +167,11 @@ The site can be accessed by this [link](http://127.0.0.1:3000/index.html)
 
 ### List of all pages
 
- - [Home Page](http://127.0.0.1:3000/index.html)
- - [How to learn page](http://127.0.0.1:3000/htl.html)
- - [What to buy page](http://127.0.0.1:3000/wtb.html)
- - [Where to buy page](http://127.0.0.1:3000/wheretb.html)
- - [Contact us page](http://127.0.0.1:3000/contact.html)
+ - [Home Page](https://dmaggsy.github.io/guitar-helper/)
+ - [How to learn page](https://dmaggsy.github.io/guitar-helper/htl.html)
+ - [What to buy page](https://dmaggsy.github.io/guitar-helper/wtb.html)
+ - [Where to buy page](https://dmaggsy.github.io/guitar-helper/wheretb.html)
+ - [Contact us page](https://dmaggsy.github.io/guitar-helper/contact.html)
 
 <hr>
 

@@ -75,19 +75,6 @@ h5 {
   margin-top: 30px;
 }
 
-/* Media query for smaller screens */
-@media (max-width: 768px) {
-  .headings {
-    font-size: 20px;
-  }
-}
-
-/* Media query for even smaller screens */
-@media (max-width: 480px) {
-  .headings {
-    font-size: 16px;
-  }
-}
 p {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -159,11 +146,6 @@ p {
   display: none;
 }
 
-@media screen and (max-width: 768px) {
-  .desktop-menu {
-    display: none;
-  }
-
   .mobile-menu {
     display: block;
     font-size: 42px;
@@ -199,7 +181,7 @@ p {
     line-height: 50px; /* match the line-height with the height value to vertically center the text */
     padding: 0 20px; /* adjust the padding value as needed */
   }
-}
+
 
 /* Css for grid gallery */
 .grid-container {
@@ -217,17 +199,6 @@ img {
   width: 100%;
   height: 100%;
   object-fit: contain;
-}
-@media screen and (max-width: 768px) {
-  .grid-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .grid-container {
-    grid-template-columns: 1fr;
-  }
 }
 
 /* Homepage grid */
@@ -274,18 +245,6 @@ img {
   color: white;
   z-index: 2;
 }
-
-@media screen and (max-width: 768px) {
-  .homepage-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .homepage-grid {
-    grid-template-columns: 1fr;
-  }
-}
 /* end of homepage grid */
 
 /* Css for Guitar Grid */
@@ -331,18 +290,6 @@ img {
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   z-index: 2;
-}
-
-@media screen and (min-width: 769px) {
-  .guitar-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .guitar-grid {
-    grid-template-columns: 1fr;
-  }
 }
 
 /* End of Guitar grid */
@@ -410,10 +357,6 @@ img {
   border-radius: 5px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
 }
-@media (max-width: 768px) {
-  .tip {
-    flex-direction: column;
-  }
 /* End of guitar tip css */
 
 
@@ -421,7 +364,7 @@ img {
 #title-Tag-Line {
   font-size: 20px;
 }
-}
+
 .form-container {
   background-color: white;
   padding-bottom: 20px;
@@ -508,15 +451,6 @@ img {
   border-top: 5px solid #0e3750;
   border-radius: 0%;
 }
-
-@keyframes bounce {
-  0% {
-    transform: translate(0, 4px);
-  }
-  50% {
-    transform: translate(0, 8px);
-  }
-} 
 footer a {
   color: #ffffff;
 }
@@ -582,8 +516,87 @@ footer a {
   color: black;
 }
 
+/*footer ends here*/
 
-/* apply vertical layout for screens smaller than 768px */
+/* Media Queries */
+
+/* Desktop Menu */
+
+
+@media screen and (max-width: 768px) {
+  .desktop-menu {
+    display: none;
+  }
+
+  /* Media query for Headings smaller screens */
+
+@media (max-width: 768px) {
+  .headings {
+    font-size: 20px;
+  }
+}
+
+/* Media query for even smaller screens */
+@media (max-width: 480px) {
+  .headings {
+    font-size: 16px;
+  }
+}
+/* Media query for homepage grid */
+@media screen and (max-width: 768px) {
+  .homepage-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .homepage-grid {
+    grid-template-columns: 1fr;
+  }
+}
+/* Media query for grid container */
+
+
+@media screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+/* Media query for guitar grid */
+
+@media screen and (min-width: 769px) {
+  .guitar-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .guitar-grid {
+    grid-template-columns: 1fr;
+  }
+}
+/* Media query for top tip grid */
+@media (max-width: 768px) {
+  .tip {
+    flex-direction: column;
+  }
+/* Media query for contact form */
+  @keyframes bounce {
+    0% {
+      transform: translate(0, 4px);
+    }
+    50% {
+      transform: translate(0, 8px);
+    }
+  } 
+
+  /* apply vertical layout for screens smaller than 768px */
 @media (max-width: 767px) {
   .footertext {
     flex-direction: column; /* set the direction of the flex items to be vertical */
@@ -599,5 +612,3 @@ footer a {
     gap: 30px;
   }
 }
-
-/*footer ends here*/
