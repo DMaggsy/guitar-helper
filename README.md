@@ -430,7 +430,7 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 - Unsolved bugs
 
-     - None
+     - App.js error appears in contact us page 
 
 - Mistakes
 
