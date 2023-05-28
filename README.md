@@ -302,6 +302,33 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 <hr>
 
+### Manual Testing
+
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | Click on "Home" | User is taken to the home page | Yes | Yes | |
+| Navbar | Click on "How to learn" | User is taken to the how to learn page | Yes | Yes | |
+| Navbar | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
+| Navbar | Click on "Where to buy" | User is taken to the where to buy page | Yes | Yes | |
+| Navbar | Click on "Contact us" | User is taken to the contact us page | Yes | Yes | |
+| Homepage | Click on "How to learn" | User is taken to the how to learn page | Yes | Yes | |
+| Homepage | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
+| Homepage | Click on "Where to buy" | User is taken to the where to buy page | Yes | Yes | |
+| Homepage | Click on "Guitar lessons with Marty" | User is taken to the Marty Music YouTube channel | Yes | Yes | |
+| Homepage | Click on "18 Best guitars of 2023" | User is taken to the Guitar lobby website | Yes | Yes | |
+| Homepage | Click on "Band of the month" | User gets taken to official Limp Bizkit website | Yes | Yes | |
+| Footer | Click on "Home" | User is taken to the home page | Yes | Yes | |
+| Footer | Click on "How to learn" | User is taken to the how to learn page | Yes | Yes | |
+| Footer | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
+| Footer | Click on "Where to buy" | User is taken to the where to buy page | Yes | Yes | |
+| Footer | Click on "Contact us" | User is taken to the contact us page | Yes | Yes | |
+| Footer | Click on "Facebook" | User is taken to the official Facebook page | Yes | Yes | |
+| Footer | Click on "Twitter" | User is taken to the official Twitter page | Yes | Yes | |
+| Footer | Click on "Instagram" | User is taken to the official Instagram page | Yes | Yes | |
+| Footer | Click on "YouTube" | User is taken to the official YouTube page | Yes | Yes | |
+| Footer | Click on "Contact us" | User is taken to the contact us page | Yes | Yes | |
+
+
 ### Testing
 
 -  In order to confirm the correct functionality, responsiveness, and appearance:

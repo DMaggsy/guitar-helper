@@ -6,15 +6,17 @@
   margin: 0;
   padding: 0;
 }
+
 body {
- font-size:  calc(60% + 0.8vmin);
- display: flex;
- min-height: 100vh;
- flex-direction: column;
- font-family: 'Times New Roman', Times, serif;
+  font-size: calc(60% + 0.8vmin);
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: 'Times New Roman', Times, serif;
 }
+
 header {
-font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 a {
@@ -22,9 +24,12 @@ a {
 }
 
 a:hover {
-  color: #fbff0f; /* Text color when hovering */
-  text-decoration: underline; /* Underline when hovering */
+  color: #fbff0f;
+  /* Text color when hovering */
+  text-decoration: underline;
+  /* Underline when hovering */
 }
+
 nav {
   display: flex;
   align-items: center;
@@ -33,8 +38,8 @@ nav {
 }
 
 nav a {
-color: rgb(255, 255, 255);
-text-decoration: none;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
 }
 
 
@@ -42,28 +47,34 @@ text-decoration: none;
   margin: auto;
   display: block;
   width: 100%;
-  max-height:500px;
+  max-height: 500px;
   object-fit: cover;
 }
+
 .main {
   padding: 10px;
   flex: 1 0 auto;
   background-color: #ffffff;
 }
+
 h1 {
   text-align: center;
 }
+
 h2 {
   text-align: center;
 }
+
 h3 {
   text-align: center;
 }
+
 h5 {
   color: #ffffff;
   font-size: 16px;
   text-align: center;
 }
+
 /* Default font size for headers */
 .headings {
   font-size: 30px;
@@ -84,14 +95,20 @@ p {
 }
 
 .logo {
-  width: 200px; /* set the maximum width */
-  height: auto; /* set height to auto to maintain aspect ratio */
-  max-width: 200px; /* set the maximum width */
+  width: 200px;
+  /* set the maximum width */
+  height: auto;
+  /* set height to auto to maintain aspect ratio */
+  max-width: 200px;
+  /* set the maximum width */
 }
+
 .logo-container {
   display: flex;
-  justify-content: center; /* center horizontally */
-  align-items: center; /* center vertically, if needed */
+  justify-content: center;
+  /* center horizontally */
+  align-items: center;
+  /* center vertically, if needed */
 }
 
 /* Desktop menu */
@@ -100,45 +117,60 @@ p {
   top: 0;
   left: 0;
   right: 0;
-  background-color: #310342; /* Change to your desired background color */
-  z-index: 9999; /* Make sure it has a higher z-index than other elements on the page */
+  background-color: #310342;
+  /* Change to your desired background color */
+  z-index: 9999;
+  /* Make sure it has a higher z-index than other elements on the page */
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 20px;
-  box-shadow: 0 2px 4px rgba(0,0,0,.1); /* Add a box-shadow to give it some depth */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+  /* Add a box-shadow to give it some depth */
 }
 
 .desktop-menu li {
   list-style: none;
-  border-right: 1px solid #ffffff; /* Add a border in between each menu item */
-  border-left: 1px solid #ffffff; /* Add a border in between each menu item */
+  border-right: 1px solid #ffffff;
+  /* Add a border in between each menu item */
+  border-left: 1px solid #ffffff;
+  /* Add a border in between each menu item */
 }
+
 .desktop-menu li:first-child {
-  border-left-width: 2px; /* Set the left border of the first item to 2 pixels */
+  border-left-width: 2px;
+  /* Set the left border of the first item to 2 pixels */
 }
 
 .desktop-menu li:last-child {
-  border-right-width: 2px; /* Set the right border of the last item to 2 pixels */
+  border-right-width: 2px;
+  /* Set the right border of the last item to 2 pixels */
 }
+
 .desktop-menu a {
   text-decoration: none;
   color: #ffffff;
   padding: 10px;
   font-size: 20px;
 }
+
 .desktop-menu a:hover {
-  color:#fbff0f
+  color: #fbff0f
 }
+
 /* Mobile menu */
 .mobile-menu {
   display: none;
-  text-align: left; /* added property */
-  position: fixed; /* change to "fixed" */
-  top: 0; /* add "top: 0" */
+  text-align: left;
+  /* added property */
+  position: fixed;
+  /* change to "fixed" */
+  top: 0;
+  /* add "top: 0" */
   left: 0;
   z-index: 999;
-  width: 100%; /* add "width: 100%" */
+  width: 100%;
+  /* add "width: 100%" */
   background-color: #310342;
 }
 
@@ -146,41 +178,45 @@ p {
   display: none;
 }
 
-  .mobile-menu {
-    display: block;
-    font-size: 42px;
-    color: #fff;
-    padding-left: 20px;
-  }
-  
-  #toggle-menu:checked ~ ul {
-    display: block;
-  }
+.mobile-menu {
+  display: block;
+  font-size: 42px;
+  color: #fff;
+  padding-left: 20px;
+}
+
+#toggle-menu:checked~ul {
+  display: block;
+}
 
 
-  #toggle-menu:checked + label {
-    background-color: #310342;
-  }
+#toggle-menu:checked+label {
+  background-color: #310342;
+}
 
-  .mobile-menu ul {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    text-align: left; /* added property */
-  }
+.mobile-menu ul {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  /* added property */
+}
 
-  .mobile-menu li {
-    list-style: none;
-    padding: 10px;
-  }
+.mobile-menu li {
+  list-style: none;
+  padding: 10px;
+}
 
-  .mobile-menu a {
-    text-decoration: none;
-    color: #ffffff;
-    height: 50px; /* increase the height value to increase the height of the mobile menu bars */
-    line-height: 50px; /* match the line-height with the height value to vertically center the text */
-    padding: 0 20px; /* adjust the padding value as needed */
-  }
+.mobile-menu a {
+  text-decoration: none;
+  color: #ffffff;
+  height: 50px;
+  /* increase the height value to increase the height of the mobile menu bars */
+  line-height: 50px;
+  /* match the line-height with the height value to vertically center the text */
+  padding: 0 20px;
+  /* adjust the padding value as needed */
+}
 
 
 /* Css for grid gallery */
@@ -204,12 +240,14 @@ img {
 /* Homepage grid */
 .homepage-container {
   display: grid;
-  align-items: center; 
+  align-items: center;
 }
+
 .homepage-container img:hover {
   transform: scale(1.1);
   transition: ease 0.5s;
 }
+
 .homepage-grid {
   display: grid;
   grid-template-columns: repeat(3, 2fr);
@@ -218,19 +256,22 @@ img {
   justify-content: center;
   overflow: hidden;
 }
+
 .homepage-grid a {
   display: block;
-  align-items: center;  
+  align-items: center;
   width: 100%;
   height: 100%;
   overflow: hidden;
   position: relative;
 }
+
 .homepage-grid img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
+
 .image-text {
   margin-top: auto;
   font-size: 16px;
@@ -245,21 +286,25 @@ img {
   color: white;
   z-index: 2;
 }
+
 /* end of homepage grid */
 
 /* Css for Guitar Grid */
 
 .guitar-container {
   display: grid;
-  align-items: center; 
+  align-items: center;
 }
+
 .guitar-container img:hover {
   transform: scale(1.1);
   transition: ease 0.5s;
 }
+
 .guitar-grid img {
   width: 300px;
 }
+
 .guitar-grid {
   display: grid;
   grid-template-columns: repeat(3, 2fr);
@@ -271,7 +316,7 @@ img {
 
 .guitar-grid a {
   display: block;
-  align-items: center;  
+  align-items: center;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -357,6 +402,7 @@ img {
   border-radius: 5px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
 }
+
 /* End of guitar tip css */
 
 
@@ -388,25 +434,28 @@ img {
   z-index: 2;
   animation: bounce 1.5s infinite;
 }
+
 ::-webkit-input-placeholder {
   font-size: 1.5em;
 }
 
-.title{
+.title {
   display: block;
   font-family: sans-serif;
   margin: 10px auto 5px;
   width: 300px;
 }
-.termsConditions{
+
+.termsConditions {
   margin: 0 auto 5px 80px;
 }
 
-.pageTitle{
+.pageTitle {
   font-size: 2em;
   font-weight: bold;
 }
-.secondaryTitle{
+
+.secondaryTitle {
   color: grey;
 }
 
@@ -428,6 +477,7 @@ img {
   height: 10rem;
   color: rgb(0, 0, 0);
 }
+
 .formEntry {
   display: block;
   margin: 30px auto;
@@ -452,9 +502,11 @@ img {
   border-top: 5px solid #0e3750;
   border-radius: 0%;
 }
+
 footer a {
   color: #ffffff;
 }
+
 .footer-container {
   display: flex;
   justify-content: center;
@@ -464,22 +516,27 @@ footer a {
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 40px;
-  background-color:#310342
-  
+  background-color: #310342
 }
+
 .footer-section {
   flex: 1 0 auto;
   text-align: center;
 }
+
 .footer {
   flex: 1 0 auto;
   text-align: center;
 }
+
 /* default style for all screen sizes */
 .footertext {
-  display: flex; /* set the container to use flexbox layout */
-  flex-direction: row; /* set the direction of the flex items to be horizontal */
-  justify-content: center; /* center the items horizontally */
+  display: flex;
+  /* set the container to use flexbox layout */
+  flex-direction: row;
+  /* set the direction of the flex items to be horizontal */
+  justify-content: center;
+  /* center the items horizontally */
   text-align: center;
   justify-content: space-evenly;
   gap: 10px;
@@ -489,17 +546,22 @@ footer a {
 
 .contactus {
   background-color: #310342;
-  display: flex; /* set the container to use flexbox layout */
-  flex-direction: column; /* set the direction of the flex items to be horizontal */
-  justify-content: center; /* center the items horizontally */
+  display: flex;
+  /* set the container to use flexbox layout */
+  flex-direction: column;
+  /* set the direction of the flex items to be horizontal */
+  justify-content: center;
+  /* center the items horizontally */
   text-align: center;
-  list-style-type: none; 
+  list-style-type: none;
   flex: 1 0 auto;
   text-align: center;
 
 }
+
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50;
+  /* Green */
   border: none;
   color: white;
   padding: 5px 10px;
@@ -512,6 +574,7 @@ footer a {
   cursor: pointer;
   border-radius: 5px;
 }
+
 .button:hover {
   background-color: #fbff0f;
   color: black;
@@ -528,6 +591,7 @@ footer a {
   .desktop-menu {
     display: none;
   }
+
   .homepage-grid {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -545,10 +609,12 @@ footer a {
   .headings {
     font-size: 16px;
   }
+
   .homepage-grid {
     grid-template-columns: 1fr;
   }
 }
+
 /* Media query for homepage grid */
 
 
@@ -566,6 +632,7 @@ footer a {
     grid-template-columns: 1fr;
   }
 }
+
 /* Media query for guitar grid */
 
 @media screen and (min-width: 769px) {
@@ -579,29 +646,35 @@ footer a {
     grid-template-columns: 1fr;
   }
 }
+
 /* Media query for top tip grid */
 
 @media (max-width: 768px) {
   .tip {
     flex-direction: column;
   }
-/* Media query for contact form */
+
+  /* Media query for contact form */
 
 
   @keyframes bounce {
     0% {
       transform: translate(0, 4px);
     }
+
     50% {
       transform: translate(0, 8px);
     }
-  } 
+  }
 }
+
 /* Footer Media query */
 @media (max-width: 1020px) and (min-width: 481px) {
   .footertext {
-    flex-direction: column; /* set the direction of the flex items to be vertical */
-    align-items: center; /* center the items vertically */
+    flex-direction: column;
+    /* set the direction of the flex items to be vertical */
+    align-items: center;
+    /* center the items vertically */
     gap: 10px;
   }
 }
