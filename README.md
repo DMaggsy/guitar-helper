@@ -311,6 +311,12 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 | Navbar | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
 | Navbar | Click on "Where to buy" | User is taken to the where to buy page | Yes | Yes | |
 | Navbar | Click on "Contact us" | User is taken to the contact us page | Yes | Yes | |
+| Mobile Navbar | Click hamburger icon | User is presented with a vertical navigation bar | Yes | Yes | |
+| Mobile Navbar | Click on "Home" | User is taken to the home page | Yes | Yes | |
+| Mobile Navbar | Click on "How to learn" | User is taken to the how to learn page | Yes | Yes | |
+| Mobile Navbar | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
+| Mobile Navbar | Click on "Where to buy" | User is taken to the where to buy page | Yes | Yes | |
+| Mobile Navbar | Click on "Contact us" | User is taken to the contact us page | Yes | Yes | |
 | Homepage | Click on "How to learn" | User is taken to the how to learn page | Yes | Yes | |
 | Homepage | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
 | Homepage | Click on "Where to buy" | User is taken to the where to buy page | Yes | Yes | |
