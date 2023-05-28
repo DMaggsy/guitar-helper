@@ -163,6 +163,11 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
     ![Contact us page](documentation/contactusfull.png)
 
+    - The contact us form checks for email format to be entered as a requirement, to stop users from entering incorrect email addresses.
+    - The contact us form displays a thank you message when the user submits the form (see below).
+
+    ![Thank you message](documentation/thank-you-page.png)
+
 <hr>
 
 ### List of all pages
