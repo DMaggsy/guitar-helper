@@ -434,7 +434,12 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
      - Google Chrome Console Error
 
+        ![Chrome error](documentation/contactus-chrome.png)
+
+
      - Microsoft Edge Console
+
+       ![edge console](documentation/contactus-microsoftedge.png)
 
 - Mistakes
 
