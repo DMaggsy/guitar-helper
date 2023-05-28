@@ -426,6 +426,7 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
      - The navigation bar was not responsive on mobile devices. This was solved by adding a media query to the CSS file.
      - The contact us form was not readable on mobile due to there being no real border around the input fields. This was fixed by adding a solid border around the input fields.
      - The footer, would sometimes not stick to the bottom of the page. This was fixed by following the method presented by [Materialize](https://materializecss.com/footer.html).
+     - Favicon error appears within the browser console. This is listed as a future implementation.
 
 
 - Unsolved bugs
