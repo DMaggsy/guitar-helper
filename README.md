@@ -430,7 +430,11 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 - Unsolved bugs
 
-     - App.js error appears in contact us page 
+     - In Google Chrome console, we receive an extension error across all pages. However, having tested this in Microsoft edge, we can see this is a browser issue and not a code issue (see below).
+
+     - Google Chrome Console Error
+
+     - Microsoft Edge Console
 
 - Mistakes
 
