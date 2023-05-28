@@ -317,6 +317,28 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 | Homepage | Click on "Guitar lessons with Marty" | User is taken to the Marty Music YouTube channel | Yes | Yes | |
 | Homepage | Click on "18 Best guitars of 2023" | User is taken to the Guitar lobby website | Yes | Yes | |
 | Homepage | Click on "Band of the month" | User gets taken to official Limp Bizkit website | Yes | Yes | |
+| What to buy | Click on "Epiphone SG" | User is taken to the Epiphone SG Gear4music page | Yes | Yes | |
+| What to buy | Click on "Epiphone Les Paul" | User is taken to the Epiphone Les Paul Gear4music page | Yes | Yes | |
+| What to buy | Click on "Fender Strat" | User is taken to the Fender Strat Gear4music page | Yes | Yes | |
+| What to buy | Click on "Squier Telecaster 50's Vive" | User is taken to the Squier Telecaster 50's Vive GuitarGuitar page | Yes | Yes | |
+| What to buy | Click on "Epiphone Sheraton" | User is taken to the Epiphone Sheraton Absolute Music page | Yes | Yes | |
+| What to buy | Click on "Fender Telecaster Player Plus" | User is taken to the Fender Telecaster Player Plus Absolute Music page | Yes | Yes | |
+| What to buy | Click on "Ibanez RG GIO" | User is taken to the Ibanez RG GIO Absolute Music page | Yes | Yes | |
+| what to buy | Click on "Jackson Snow White" | User is taken to the Jackson Snow White Absolute Music page | Yes | Yes | |
+| What to buy | Click on "Ibanez RG Blue Wave" | User is taken to the Ibanez RG Blue Wave Absolute Music page | Yes | Yes | |
+| Where to buy | Click on "Absolute Music" | User is taken to the Absolute Music website | Yes | Yes | |
+| Where to buy | Click on "Gear4Music" | User is taken to the Gear4Music website | Yes | Yes | |
+| Where to buy | Click on "Guitar Village" | User is taken to the Guitar Village website | Yes | Yes | |
+| Where to buy | Click on "Guitar Guitar" | User is taken to the Guitar Guitar website | Yes | Yes | |
+| Where to buy | Click on "PMT" | User is taken to the PMT website | Yes | Yes | |
+| Where to buy | Click on "Andertons" | User is taken to the Andertons website | Yes | Yes | |
+| Where to buy | Click on "GAK" | User is taken to the GAK website | Yes | Yes | |
+| Where to buy | Click on "Peach Guitars" | User is taken to the Peach Guitars website | Yes | Yes | |
+| Contact us | Enter name | User enters name | Yes | Yes | |
+| Contact us | Enter email | User enters email | Yes | Yes | |
+| Contact us | Enter message | User enters message | Yes | Yes | |
+| Contact us | Click Accept | User accepts terms and conditions | Yes | Yes | |
+| Contact us | Click on "Submit" | User gets a thank you for subkmitting message | Yes | Yes | |
 | Footer | Click on "Home" | User is taken to the home page | Yes | Yes | |
 | Footer | Click on "How to learn" | User is taken to the how to learn page | Yes | Yes | |
 | Footer | Click on "What to buy" | User is taken to the what to buy page | Yes | Yes | |
