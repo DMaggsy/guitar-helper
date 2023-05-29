@@ -514,7 +514,7 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 ## Lighthouse Testing
 
-- Using lighthouse in dev tools, I can show that the site is fully accessible and has a good performance.
+- Using lighthouse in dev tools, I can show that the site is fully accessible and has slightly mixed good performance. The main factor slowing pages down is the image sizes. I have compressed all the images as much as poaaible without losing quality. However I am aware this could be improved upon. I have added it to the future implementations section.
 
 - Homepage Testing 
 
@@ -586,6 +586,9 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 3. Fully Functional Contact Us Form
  - The existing contact us form, which is currently only visually designed, will be upgraded to a fully functional form. This improvement will allow visitors to submit inquiries, feedback, or requests directly from the website. The form will be integrated with a backend system to ensure that submissions are properly received and processed. Upon submission, users will receive confirmation messages or email notifications to acknowledge their contact requests.
+
+ 4. Image Compression
+ - The images on the website will be compressed to improve the site's performance. This will help reduce the page load time and improve the user experience.
 
 ## Wireframes 
 
