@@ -1,4 +1,7 @@
 /* language: CSS */
+
+/* Css to reset margin and padding for all elements */
+
 *,
 *::before,
 *::after {
@@ -6,6 +9,8 @@
   margin: 0;
   padding: 0;
 }
+
+/* Css for body */
 
 body {
   font-size: calc(60% + 0.8vmin);
@@ -15,13 +20,19 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
+/* Css for header fonts */
+
 header {
   font-family: 'Times New Roman', Times, serif;
 }
 
+/* Removed text decoration */
+
 a {
   text-decoration: none;
 }
+
+/* Changes hover rule for user visibility */
 
 a:hover {
   color: #fbff0f;
@@ -29,6 +40,8 @@ a:hover {
   text-decoration: underline;
   /* Underline when hovering */
 }
+
+/* Navigation rules */
 
 nav {
   display: flex;
@@ -42,6 +55,7 @@ nav a {
   text-decoration: none;
 }
 
+/* Css for main page images */
 
 .headimg {
   margin: auto;
@@ -51,11 +65,15 @@ nav a {
   object-fit: cover;
 }
 
+/* Css for main */
+
 .main {
   padding: 10px;
   flex: 1 0 auto;
   background-color: #ffffff;
 }
+
+/* Css for h1, h2, h3, h4, h5 */
 
 h1 {
   text-align: center;
@@ -86,6 +104,8 @@ h5 {
   margin-top: 30px;
 }
 
+/* Css for paragraphs */
+
 p {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -93,6 +113,8 @@ p {
   margin: auto;
   font-size: 18px;
 }
+
+/* Css for guitar helper logo */
 
 .logo {
   width: 200px;
@@ -407,7 +429,7 @@ img {
 /* End of guitar tip css */
 
 
-/*Tester Form CSS*/
+/* CSS for contact us*/
 #title-Tag-Line {
   font-size: 20px;
 }
@@ -504,6 +526,8 @@ img {
   border-radius: 0%;
 }
 
+/*footer css starts here*/
+
 footer a {
   color: #ffffff;
 }
@@ -585,7 +609,7 @@ footer a {
 
 /* Media Queries */
 
-/* Desktop Menu */
+/* Media Queries for Desktop Menu, homepage grid and headings */
 
 
 @media screen and (max-width: 768px) {
@@ -597,15 +621,12 @@ footer a {
     grid-template-columns: repeat(3, 1fr);
   }
 
-  /* Media query for Headings smaller screens */
-
-
   .headings {
     font-size: 20px;
   }
 }
 
-/* Media query for even smaller screens */
+/* Media query for headings and homepage grid on smaller screens */
 @media screen and (max-width: 480px) {
   .headings {
     font-size: 16px;
@@ -616,10 +637,7 @@ footer a {
   }
 }
 
-/* Media query for homepage grid */
-
-
-/* Media query for grid container */
+/* Desktop Media query for grid container */
 
 
 @media screen and (max-width: 768px) {
@@ -627,6 +645,8 @@ footer a {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* Smaller screen Media query for grid container */
 
 @media screen and (max-width: 480px) {
   .grid-container {

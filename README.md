@@ -307,7 +307,7 @@ The site can be accessed by this [link](https://dmaggsy.github.io/guitar-helper/
 
 <hr>
 
-### Manual Testing
+## Manual Testing
 
 | feature | action | expected result | tested | passed | comments |
 | --- | --- | --- | --- | --- | --- |
