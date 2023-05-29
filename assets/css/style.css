@@ -205,6 +205,7 @@ p {
 .mobile-menu li {
   list-style: none;
   padding: 10px;
+  font-size: calc(60% + 0.8vmin);
 }
 
 .mobile-menu a {
