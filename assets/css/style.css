@@ -641,9 +641,9 @@ footer a {
 }
 
 /* Media query for guitar grid */
-@media screen and (min-width: 769px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .guitar-grid {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr;
   }
 }
 
