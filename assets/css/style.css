@@ -607,77 +607,53 @@ footer a {
 
 /*footer ends here*/
 
-/* Media Queries */
+/* Media Queries for Desktop Menu, homepage grid, and headings */
 
-/* Media Queries for Desktop Menu, homepage grid and headings */
+/* Desktop Media query for menu */
+@media screen and (min-width: 1024px) {
+  .desktop-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
+  .mobile-menu {
+    display: none;
+  }
+}
 
+/* Mobile Media query for menu */
 @media screen and (max-width: 768px) {
   .desktop-menu {
     display: none;
   }
 
-  .homepage-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .headings {
-    font-size: 20px;
+  .mobile-menu {
+    display: block;
   }
 }
 
-/* Media query for headings and homepage grid on smaller screens */
-@media screen and (max-width: 480px) {
-  .headings {
-    font-size: 16px;
-  }
-
-  .homepage-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* Desktop Media query for grid container */
-
-
+/* Media query for grid container */
 @media screen and (max-width: 768px) {
   .grid-container {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* Smaller screen Media query for grid container */
-
-@media screen and (max-width: 480px) {
-  .grid-container {
-    grid-template-columns: 1fr;
-  }
-}
-
 /* Media query for guitar grid */
-
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 769px) and (max-width: 768px) {
   .guitar-grid {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-@media screen and (max-width: 768px) {
-  .guitar-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
 /* Media query for top tip grid */
-
 @media (max-width: 768px) {
   .tip {
     flex-direction: column;
   }
 
   /* Media query for contact form */
-
-
   @keyframes bounce {
     0% {
       transform: translate(0, 4px);
@@ -686,6 +662,22 @@ footer a {
     50% {
       transform: translate(0, 8px);
     }
+  }
+}
+
+/* Media Queries for headings and homepage grid on smaller screens */
+@media screen and (max-width: 480px) {
+  .headings {
+    font-size: 16px;
+  }
+
+  .homepage-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Smaller screen Media query for grid container */
+  .grid-container {
+    grid-template-columns: 1fr;
   }
 }
 
